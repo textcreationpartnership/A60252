@@ -1,0 +1,1607 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The division-violist, or, An introduction to the playing upon a grovnd divided into two parts, the first directing the hand, with other preparative instructions, the second laying open the manner and method of playing ex-tempore, or composing division to a grovnd : to which, are added some divisions made upon grounds for the practice of learners / by Chr. Simpson.</title>
+            <author>Simpson, Christopher, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60252</idno>
+            <idno type="STC">Wing S3813</idno>
+            <idno type="STC">ESTC R184176</idno>
+            <idno type="EEBO-CITATION">11914560</idno>
+            <idno type="OCLC">ocm 11914560</idno>
+            <idno type="VID">50897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The division-violist, or, An introduction to the playing upon a grovnd divided into two parts, the first directing the hand, with other preparative instructions, the second laying open the manner and method of playing ex-tempore, or composing division to a grovnd : to which, are added some divisions made upon grounds for the practice of learners / by Chr. Simpson.</title>
+                  <author>Simpson, Christopher, d. 1669.</author>
+               </titleStmt>
+               <extent>[11], 67 p. : ill., music, port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous musical examples and exercises. "Divisions for the practice of learners", p. 53-67.</note>
+                  <note>Commendatory poems by Matthew Locke, John Jenkins and others.</note>
+                  <note>Second edition published under title: Chelys, minuritionum artificio exornata, sive Minuritiones ad basin, etiam extempore modulandi ratio, or The division viol.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Viols --  Fingering</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:50897:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Christopher Simpson</figDesc>
+                  <head>Christophori Simpson Effigies.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50897:1"/>
+            <p>The Diviſion-Violiſt: OR AN INTRODUCTION To the <hi>PLAYING</hi> upon a <hi>GRO<g ref="char:V">Ʋ</g>ND: Divided into Two</hi> PARTS. The Firſt, Directing the <hi>HAND,</hi> with Other Prepa<g ref="char:EOLhyphen"/>rative Inſtructions. The Second, Laying open the <hi>Manner</hi> and <hi>Method</hi> of Playing <hi>Ex-tempore,</hi> or Compoſing <hi>Diviſion</hi> to a <hi>GRO<g ref="char:V">Ʋ</g>ND.</hi> To which, are Added ſome <hi>Diviſions</hi> made upon <hi>Grounds</hi> for the Practice of Learners.</p>
+            <p>By CHR. SIMPSON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Godbid.</hi> 1659.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:50897:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknown, that He who expoſes a <hi>Book</hi> to Publick View, doth alſo expoſe it to Publick Cenſure: Nor can I expect a Priviledge denied to better <hi>Authors.</hi> Some will diſlike the <hi>Matter;</hi> Others the <hi>Method.</hi> Some again, will except againſt <hi>This;</hi> Others againſt <hi>That</hi> particular <hi>Part</hi> or <hi>Paſſage;</hi> every one cenſuring according to his <hi>Judgement</hi> or <hi>Fancy.</hi>
+            </p>
+            <p>As for the <hi>Matter</hi> or <hi>Subject;</hi> though in it Self, it might deſerve acceptance from all that pretend to <hi>Diviſion,</hi> upon what <hi>Inſtrument</hi> ſoever; yet I offer it only to Thoſe that affect the <hi>Viol.</hi> The <hi>Method</hi> is ſuch as I thought might render the <hi>Matter</hi> moſt eaſie; as well to the <hi>Hand</hi> as to the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding.</hi> If in This, or That, particu<g ref="char:EOLhyphen"/>lar <hi>Part,</hi> or <hi>Paſſage,</hi> I differ from the <hi>Judgement</hi> of any <hi>Maſter</hi> in <hi>Muſick,</hi> I am ready to ſubmit to better <hi>Reaſons,</hi> when I ſhall hear them, pretend<g ref="char:EOLhyphen"/>ing to no more then the delivering my Own Opinion.</p>
+            <p>True it is; the firſt <hi>Eſſay</hi> of this <hi>Treatiſe</hi> was not intended for the <hi>Preſſe,</hi> but for a private Friend, who deſired ſome <hi>Inſtructions</hi> for Playing <hi>Diviſion</hi> to a <hi>Ground.</hi> After I had conſidered what might be ſaid upon That Subject; and committed the <hi>Heads</hi> to <hi>Paper;</hi> I found as power<g ref="char:EOLhyphen"/>full Motives, to take alſo into conſideration what was neceſſary to be known in order to thoſe <hi>Inſtructions:</hi> (even from the firſt handling of the <hi>Viol</hi>) and, thereupon, drew all up into a <hi>Compendium,</hi> to the end, that what was chiefly intended for One, might alſo be uſefull to Others.</p>
+            <p>How far I have acquitted my Self herein, muſt be referred to the <hi>Book</hi> it ſelf; which, (encouraged by the approbation of Competent Judges) hath now put on the confidence to appear in Publick.</p>
+            <p>And now I muſt tell my <hi>Reader</hi> (if he know it not already) that <hi>This Playing Diviſion to a Ground,</hi> of which we treat, is the Higheſt Degree of Excellency that can be aimed at upon the <hi>Viol;</hi> and includes what elſe is to be done upon That <hi>Inſtrument.</hi>
+            </p>
+            <p>All I have to ſay more, is; that if This which I now expoſe, prove uſefull; (be it in the leaſt degree) as either by improving the Know<g ref="char:EOLhyphen"/>ledge of this kind of <hi>Muſick,</hi> in laying the Way more open then it was; Or by ſerving, and aſſiſting ſuch as be Lovers, or Learners of it; Or if my failings herein may prove an Incitement to ſome more able <hi>Genius</hi> to make a better Diſcourſe upon this Subject, I have then attained my de<g ref="char:EOLhyphen"/>ſires.</p>
+            <closer>
+               <signed>Chr. Simpſon.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:50897:2" rendition="simple:additions"/>
+            <head>To M<hi rend="sup">r.</hi> 
+               <hi>Chriſtopher Simpſon,</hi> upon his Excellent Treatiſe of Playing <hi>Diviſion</hi> upon a <hi>Ground.</hi>
+            </head>
+            <l>
+               <hi>I</hi> Stand not here, your Merits to proclaim,</l>
+            <l>Which will be done, by, both your <hi>Book,</hi> and <hi>Fame:</hi>
+            </l>
+            <l>But, as concern'd for our great <hi>Art,</hi> I may,</l>
+            <l>To you, my <hi>Thanks,</hi> though not my <hi>Praiſes</hi> pay.</l>
+            <l>To <hi>Praiſe,</hi> is to beſtow; but what can we</l>
+            <l>Give him who has oblig'd all <hi>Harmonie?</hi>
+            </l>
+            <l>For you have drawn her from her gloomy Pit</l>
+            <l>Wherein ſo many Ages ſhe did ſit;</l>
+            <l>Obſcured, either by <hi>Deſign,</hi> or <hi>Chance;</hi>
+            </l>
+            <l>By too much <hi>Wit,</hi> or too much <hi>Ignorance.</hi>
+            </l>
+            <l>You have her inward <hi>Beauties</hi> now reveal'd,</l>
+            <l>Thinking them Injur'd, while they were Conceal'd.</l>
+            <l>For, things, that are thus rationally good,</l>
+            <l>Are more Admir'd, the more th'are <g ref="char:V">Ʋ</g>nderſtood.</l>
+            <l>Her rougheſt <hi>Deſcants,</hi> you have made ſo clear,</l>
+            <l>'Tis as much Pleaſure now, to <hi>Learn,</hi> as <hi>Hear;</hi>
+            </l>
+            <l>For you enlighten all by your own Beam;</l>
+            <l>And in a <hi>Stile,</hi> as Charming, as your <hi>Theme.</hi>
+            </l>
+            <l>What then to you (brave Friend) do's <hi>Muſick</hi> owe,</l>
+            <l>Who, in untroden Paths, hath ventur'd ſo,</l>
+            <l>To bring to Light, that her Illuſtrious Birth,</l>
+            <l>Derives from all that's great, in <hi>Heaven,</hi> and <hi>Earth;</hi>
+            </l>
+            <l>And by ſuch certain <hi>Scales,</hi> her <hi>Rules</hi> to try,</l>
+            <l>As ſhews both how ſhe conquer's <hi>Souls,</hi> and why:</l>
+            <l>From whence, men may Judiciouſly invent,</l>
+            <l>And bring even <hi>Diſcord</hi> into <hi>Ornament.</hi>
+            </l>
+            <l>Your great Deſert hath all requital barr'd;</l>
+            <l>We may acknowledge it, but not reward.</l>
+            <l>
+               <hi>Muſick</hi> her ſelf, with all her <hi>Concords</hi> fraught,</l>
+            <l>Adorn'd with every <hi>Grace</hi> which you have taught;</l>
+            <l>And help'd by all whom <hi>Numbers</hi> do enflame</l>
+            <l>To Sing a <hi>Panegyrick</hi> to your <hi>Name:</hi>
+            </l>
+            <l>Would only tell the <hi>World,</hi> That <hi>Conſort</hi> met,</l>
+            <l>Not to Repay, but to Confeſs her Debt.</l>
+            <l>For all th' eternity ſhe can confer,</l>
+            <l>Is ſhort of that, which you have given her:</l>
+            <l>Be this your Glory, to make <hi>Muſick</hi> Live;</l>
+            <l>'Tis much to merit <hi>Fame,</hi> but more to Give.</l>
+            <closer>
+               <signed>
+                  <hi>CHARLES COLMAN,</hi> Dr. in <hi>Muſick.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:50897:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:50897:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:50897:4"/>
+            <head>To his Excellent Friend Mr. <hi>Chriſtopher Simpſon,</hi> upon his moſt acurate <hi>Treatiſe</hi> of <hi>Diviſion</hi> to a <hi>Ground.</hi>
+            </head>
+            <lg>
+               <l>GReat <hi>Soul</hi> of <hi>Muſick,</hi> who ſhall Sing thy <hi>Praiſe</hi>
+               </l>
+               <l>Give thee loud <hi>Plaudits;</hi> circle thee with <hi>Bayes;</hi>
+               </l>
+               <l>Crown thy ſoft <hi>Numbers;</hi> who, at leaſt, incline</l>
+               <l>To treat or deſcant on this <hi>Treat</hi> of Thine?</l>
+               <l>For he that ſpeaks thee home, 'tis fit he be</l>
+               <l>Familiar with thy <hi>Soul,</hi> thy <hi>Worke,</hi> and <hi>Thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Some happy few that know, ſome that know not</l>
+               <l>Thy <hi>Worth,</hi> promiſcuouſly throw in their <hi>Vote;</hi>
+               </l>
+               <l>And why not I, who by <hi>Inſpection</hi> ſee,</l>
+               <l>My <hi>Optick</hi>'s clear by a <hi>Reflex</hi> from Thee.</l>
+               <l>Mix me i'th <hi>Chorus</hi> then, ſince to thy <hi>Praiſe</hi>
+               </l>
+               <l>I bring no <hi>Flattery; Truth</hi>'s my only <hi>Baiſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thou art no <hi>God,</hi> and yet thou ſeem'ſt to be</l>
+               <l>A near Reſemblance of ſome <hi>Deitie.</hi>
+               </l>
+               <l>Witneſs that Excellent <hi>Scheme,</hi> thy <hi>Muſick Sphere,</hi>
+               </l>
+               <l>And thoſe thy well compoſed <hi>Months</hi> o'th' <hi>Yeere;</hi>
+               </l>
+               <l>Which <hi>Months</hi> thy pregnant <hi>Muſe</hi> hath richly dreſt,</l>
+               <l>And to each <hi>Month</hi> hath made a <hi>Muſick-Feaſt,</hi>
+               </l>
+               <l>Wherein the <hi>Graces</hi> do ſo ſubt'ly Play</l>
+               <l>As they conclude twelve <hi>Months</hi> within one <hi>Day.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And having rais'd this handſome <hi>Frame</hi> of thine</l>
+               <l>Thou alſo giveſt, <hi>Method</hi> and <hi>Deſigne</hi>
+               </l>
+               <l>To work by: <hi>Rules</hi> ſo perfect, that twil be</l>
+               <l>Stil'd <hi>Simpſon's Grammar unto Harmony;</hi>
+               </l>
+               <l>By which the Ingenious <hi>Scholar</hi> is both taught</l>
+               <l>To Play, and imitate what thou haſt wrought.</l>
+            </lg>
+            <lg>
+               <l>Pack hence ye <hi>Pedants</hi> then, ſuch as do bragg</l>
+               <l>Of <hi>Knowledge, Hand,</hi> or <hi>Notes:</hi> yet not one Ragg</l>
+               <l>Of <hi>Muſick</hi> have, more then what got by <hi>Theft,</hi>
+               </l>
+               <l>Nor know true <hi>Poſture</hi> of <hi>Right Hand</hi> or <hi>Left:</hi>
+               </l>
+               <l>Falſe finger'd Crew, who ſeem to underſtand,</l>
+               <l>Pretend to make, when you but marre a <hi>Hand.</hi>
+               </l>
+               <l>You may deſiſt; you'l find your <hi>Trade</hi> decay:</l>
+               <l>
+                  <hi>Simpſons</hi> great <hi>Work</hi> will teach the <hi>World</hi> to Play.</l>
+            </lg>
+            <closer>
+               <signed>John Jenkins.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:50897:4"/>
+            <head>To M<hi rend="sup">r.</hi> 
+               <hi>CHRISTOPHER SIMPSON,</hi> on his Excellent INTRODUCTION, <hi>&amp;c.</hi>
+            </head>
+            <l>NOr can I ſilent be, <hi>Dear Friend!</hi> but muſt</l>
+            <l>Offer my <hi>Sacrifice</hi> of <hi>Praiſe;</hi> as Juſt,</l>
+            <l>And due, to your <hi>Great Merit;</hi> though it be</l>
+            <l>Clad too too meanly in bad <hi>Poetrie.</hi>
+            </l>
+            <l>How have the Learned <hi>Theoricks</hi> of their <hi>Ages</hi>
+            </l>
+            <l>Burd'ned the <hi>World</hi> with <hi>Volumes;</hi> When Three <hi>Pages</hi>
+            </l>
+            <l>Form'd by your Nobler <hi>Muſe,</hi> have given <g ref="char:V">Ʋ</g>s more</l>
+            <l>Then They, or Knew, or Saw, or Heard before!</l>
+            <l>How humbly have you ſtoop'd to th' <hi>Fingers, Hands,</hi>
+            </l>
+            <l>And <hi>Genius</hi> of the Weake! what ſweet Commands!</l>
+            <l>How facile your <hi>Examples!</hi> Full and Plain,</l>
+            <l>Your <hi>Rules</hi> for <hi>Compoſition!</hi> and your Vein</l>
+            <l>Of <hi>Breaking Deſcant</hi> on The <hi>Inſtrument</hi>
+            </l>
+            <l>Our <hi>Nation</hi> Glories in; how excellent!</l>
+            <l>Yet here you ceaſe not; but Conduct him, till</l>
+            <l>By an Admir'd Demonſtration you fill</l>
+            <l>His <hi>Heart</hi> with <hi>Holy Thoughts,</hi> his <hi>Will</hi> with <hi>Fire</hi>
+            </l>
+            <l>Kindled on th' <hi>Altar</hi> of th' <hi>Angelick Quire;</hi>
+            </l>
+            <l>By which he doth, in <hi>Muſicks Concords,</hi> ſee</l>
+            <l>What he <hi>Adores;</hi> An <hi>Unity</hi> in <hi>Three.</hi>
+            </l>
+            <l>Since Then you Thus have taught, and made our <hi>Iſle</hi>
+            </l>
+            <l>Juſtle for <hi>Honour,</hi> with the <hi>Worlds</hi> Vaſt Pile;</l>
+            <l>No more let the Large <hi>Continent</hi> commend</l>
+            <l>Only its Own; no more let it pretend</l>
+            <l>To Sole <hi>Invention;</hi> nor no more our Own,</l>
+            <l>Who ſtride both <hi>Sea</hi> and <hi>Alpes</hi> to ſlight their <hi>Home,</hi>
+            </l>
+            <l>Adhere to their paſt <hi>Follies:</hi> for they'l find,</l>
+            <l>
+               <hi>Heaven, Earth,</hi> and <hi>Art,</hi> have here their force Combin'd,</l>
+            <l>To raiſe a laſting <hi>Monument,</hi> to your</l>
+            <l>
+               <hi>Great Name;</hi> whilſt <hi>Time,</hi> and <hi>Harmony</hi> endure.</l>
+            <closer>
+               <signed>MATTHEVV LOCKE.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:50897:5"/>
+            <head>To my Worthy Friend, M<hi rend="sup">r.</hi> 
+               <hi>Chriſtopher Simpſon,</hi> upon his Excellent <hi>Treatiſe</hi> of <hi>Diviſion.</hi>
+            </head>
+            <lg>
+               <l>YOu common Dablers, Mercenary Crew,</l>
+               <l>That ſell your raw, and undigeſted <hi>Strains:</hi>
+               </l>
+               <l>Which (like your wretched ſelves) poor and untrue,</l>
+               <l>Fall flat, and periſh with your bootleſs gaines;</l>
+               <l>Ceaſe here your Malice and foul Obloqui,</l>
+               <l>Since this great <hi>Work</hi> detraction doth defie.</l>
+            </lg>
+            <lg>
+               <l>And all you ſullen <hi>Stoicks,</hi> full of years</l>
+               <l>As are your groſſer <hi>Rules,</hi> ſordid and harſh;</l>
+               <l>
+                  <hi>Cuſtome</hi> has made you obſtinate, as appears</l>
+               <l>By your ſelfwill'd, or e-grown, and formal <hi>Traſh;</hi>
+               </l>
+               <l>Thus dull d by uſe, you ſee with affectation,</l>
+               <l>Or falſer <hi>Hereſies</hi> of <hi>Speculation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As you renounce the <hi>Senſe,</hi> ſo 'tis your <hi>Fate</hi>
+               </l>
+               <l>Not to diſcern, until familiar grown:</l>
+               <l>And as your ſtupid Eares, if pleas'd; 'tis late;</l>
+               <l>The Vulger ſo learn <hi>Tunes</hi> about the <hi>Town;</hi>
+               </l>
+               <l>Unſympathizing Natures, what is <hi>Art,</hi>
+               </l>
+               <l>When ſuch ſad Drones her Myſteries impart?</l>
+            </lg>
+            <lg>
+               <l>I would not be miſtaken in my <hi>Senſe;</hi>
+               </l>
+               <l>You Nobler <hi>Soules, Maſters</hi> and <hi>Patrons</hi> too,</l>
+               <l>With many ſuch like <hi>Worthies,</hi> that diſpenſe,</l>
+               <l>And, in your <hi>Spheres,</hi> bravely perform, and do;</l>
+               <l>All you I honour, as whoſe Intellects,</l>
+               <l>Stor'd with large <hi>Gifts,</hi> do merit all <hi>Reſpects.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No; 'tis thoſe baſe <hi>Profeſſors,</hi> inſolent,</l>
+               <l>As ſcandalous <hi>Pretenders;</hi> Theſe alike,</l>
+               <l>(As in their Manners ruine all Content)</l>
+               <l>Againſt all <hi>Art</hi> their <hi>Ignorance</hi> doth ſtrike;</l>
+               <l>But theſe loſt things I neither hate, nor ſcorn,</l>
+               <l>Since 'tis themſelves do make themſelves forlorn.</l>
+            </lg>
+            <lg>
+               <l>If then thy <hi>Cedar Branches,</hi> thus out-grow</l>
+               <l>The greateſt <hi>Plants,</hi> what are the ſmaller <hi>Shrubs;</hi>
+               </l>
+               <l>The <hi>Sun,</hi> as they ne'r ſaw, ſo cannot know</l>
+               <l>By what ſtrange Rules, thou'ſt paſt the ſtranger Rubs;</l>
+               <l>For hitherto, in this <hi>Myſterious Ground,</hi>
+               </l>
+               <l>None like thy <hi>Noble Selfe</hi> this <hi>Way</hi> has found.</l>
+            </lg>
+            <lg>
+               <l>Brave Friend, with what a modeſt charge, and milde</l>
+               <l>Haſt thou now routed all <hi>Antagoniſts;</hi>
+               </l>
+               <l>Thy <hi>Innocence,</hi> and <hi>Art,</hi> ſo reconcil'd,</l>
+               <l>Thy brighter beams break through their darker miſts;</l>
+               <l>And generous like thy purer <hi>Harmony,</hi>
+               </l>
+               <l>Thy Vertue tryumphs in thy Victory.</l>
+            </lg>
+            <lg>
+               <l>The latitude (extent ſtupendious)</l>
+               <l>Of this great <hi>Art,</hi> by all uncomprehended,</l>
+               <l>Cannot yet limit thy vaſt <hi>Genius,</hi>
+               </l>
+               <l>But thy unbounded <hi>Soule,</hi> as being led,</l>
+               <l>(Or elſe inſpir'd) by ſome meere God-like ſenſe,</l>
+               <l>Thou more then humane natures do'ſt commence,</l>
+            </lg>
+            <lg>
+               <l>As if thy wraſtling in thy labours paſt,</l>
+               <l>Were bleſsings not enough, thou ſtriv'ſt ſtill more;</l>
+               <l>And yet thou ſhew'ſt this cannot be the Laſt,</l>
+               <l>Thy <hi>Ayry Spirit</hi> ſo aloft does ſore;</l>
+               <l>Thy pregnant, and unimitable heart,</l>
+               <l>Seems greater in thy contemplative part.</l>
+            </lg>
+            <lg>
+               <l>And ſure ſome <hi>Angels</hi> wayted on thy <hi>Muſe,</hi>
+               </l>
+               <l>So rare's that <hi>Peece,</hi> ſo Moral, ſo Divine;</l>
+               <l>No <hi>Mortal</hi> ſuch like <hi>Similies</hi> infuſe,</l>
+               <l>Nor could another reaſon do't but thinc;</l>
+               <l>Inſpired thus, what Fancy dares pretend,</l>
+               <l>Or Carp, or Cenſure, what they ne'r can mend.</l>
+            </lg>
+            <lg>
+               <l>But this rude <hi>Age</hi> is now ſo ſavage grown,</l>
+               <l>That only ſtudying <hi>Principles</hi> of <hi>Earth;</hi>
+               </l>
+               <l>They not diſcern, nor know what thou haſt ſhown,</l>
+               <l>And that this <hi>Plenty</hi> was ſo great a <hi>Dearth;</hi>
+               </l>
+               <l>But (when in vain) theſe ſhall for mercy cry,</l>
+               <l>Their <hi>Zeale</hi> wants <hi>Heav'nly-Muſicks</hi> ſympathy.</l>
+            </lg>
+            <lg>
+               <l>For as theſe live, ſo are they living dead;</l>
+               <l>Whilſt thus thy happy thoughts do upwards clime,</l>
+               <l>Thy firmer <hi>Soule</hi> theſe loſt things cannot dread,</l>
+               <l>Corruption's only ſubject unto them Jime.</l>
+               <l>Thy <hi>Towring Trophies</hi> great with <hi>Praiſes</hi> ſpread,</l>
+               <l>(By all good men) ſhall <hi>Crown</hi> thy vertuous head.</l>
+            </lg>
+            <lg>
+               <l>And as thou liv'ſt ſo ſhall thy living <hi>Fame,</hi>
+               </l>
+               <l>Raiſe <hi>Monuments,</hi> t'eternize thy great <hi>Name.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>JOHN CARVVARDEN.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:50897:5"/>
+            <head>Ad Authorem in Introductionem ſuam ad <hi>Chelyn</hi> ex pla<g ref="char:EOLhyphen"/>no cantu Diminutione Modulandam.</head>
+            <l>M<g ref="char:V">Ʋ</g>ſica qualis erat tulerit cum Graecia laurum, &amp;</l>
+            <l>Pars reliqua ingenuis artibus orba fuit?</l>
+            <l>Luſerat in plano cantu pueriliter aetas</l>
+            <l>
+               <hi>Priſtina,</hi> &amp; ignavam praedicat uſque <hi>Lyram.</hi>
+            </l>
+            <l>
+               <hi>Orpheus</hi> agreſtes animos lenibat &amp; iras:</l>
+            <l>
+               <hi>Saxea Thebano</hi> maenia ſtruxit agro</l>
+            <l>
+               <hi>Amphion:</hi> Sic <hi>Diva</hi> potens ſua munera geſtit,</l>
+            <l>
+               <hi>Eximia</hi> &amp; <hi>Graios</hi> dona referre juvat</l>
+            <l>Verùm haec monſtra aevi lactentis adultior aetas</l>
+            <l>Ridet, &amp; antiquam prodiga fama <hi>Lyram</hi>
+            </l>
+            <l>Dum laudare ſtudet, quanta heu mendacia finxit!</l>
+            <l>Commentumque placet queis Vetus omne placet.</l>
+            <l>Nos nova miramur meritò, <hi>Simpſonus</hi> inertes</l>
+            <l>Graecorum numeros ocyùs ire dedit,</l>
+            <l>Et <hi>Teſtudineos</hi> fugit indignataque greſſus</l>
+            <l>Docta <hi>Chelys</hi> celeri nunc pede carpit iter.</l>
+            <l>Non ſic <hi>Pythagorae Sphaerarum</hi> motibus aures</l>
+            <l>Demulſere modís ſomnia Vana ſuis:</l>
+            <l>Non ſic <hi>Sirenum Voces</hi> adulantur <hi>Vlyſſi</hi>
+            </l>
+            <l>(Quem tua Victrici ceperat arte manus)</l>
+            <l>Quàm tuus enſe truci pollentior imperat arcus,</l>
+            <l>Concordeſque animas grata tyrannis habet.</l>
+            <l>
+               <hi>Aemula</hi> quae <hi>Citharaedi</hi> olìm <hi>Philomela</hi> ſepulchrum</l>
+            <l>Nacta eſt in <hi>Cithara</hi> quam ſuperare velit,</l>
+            <l>Si tecum invictam decertans ſenſerat artem</l>
+            <l>Quàm placidè fatum ſuſtinuiſſet avis!</l>
+            <l>Invidus anguſto tua nec myſteria condis</l>
+            <l>Pectore, ſed cunctos inſtruere arte paras.</l>
+            <l>Quam dignum aeterno te praeſtas nomine, terris</l>
+            <l>
+               <hi>Muſica</hi> qui tecum regna perire Vetas.</l>
+            <l>
+               <hi>Muſica</hi> qualis erat? ſubmiſit Graecia laurum:</l>
+            <l>
+               <hi>Simpſoni</hi> ingenio tradita qualis erit?</l>
+            <l>Quàm latè regnabit enim tua gloria, cujus</l>
+            <l>
+               <hi>Arte Chely</hi> aeternus conciliatur honos.</l>
+            <closer>
+               <signed>Edv. Gelſthorp.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:50897:6"/>
+            <list>
+               <head>CONTENTS of the Firſt Part.</head>
+               <item>WHat kind of <hi>Viol</hi> is fitteſt for <hi>Diviſion,</hi> and how to be accomodated. <hi>Page 1</hi>
+               </item>
+               <item>What kind of <hi>Bow. Ib.</hi>
+               </item>
+               <item>How to hold the <hi>Viol. p. 2.</hi>
+               </item>
+               <item>How to hold the <hi>Bow. Ib.</hi>
+               </item>
+               <item>The <hi>Poſture</hi> of the <hi>Left Hand. Ib.</hi>
+               </item>
+               <item>How the <hi>Viol</hi> is <hi>Tuned,</hi> and applyed to the <hi>Scale</hi> of <hi>Muſick. p. 3</hi>
+               </item>
+               <item>An <hi>Obſervation</hi> for <hi>Playing Notes</hi> upon another <hi>String. p. 4</hi>
+               </item>
+               <item>A <hi>Rule</hi> for the <hi>Motion</hi> of the <hi>Bow. p. 5</hi>
+               </item>
+               <item>An <hi>Obſervation</hi> for <hi>Fingering. Ib.</hi>
+               </item>
+               <item>The <hi>Motion</hi> of the <hi>Right Arme</hi> and <hi>Wriſt. p. 6</hi>
+               </item>
+               <item>How to gaine the <hi>Motion</hi> of the <hi>Wriſt. p. 7</hi>
+               </item>
+               <item>The <hi>Motion</hi> of the <hi>Bow</hi> in Double <hi>Stops. Ib.</hi>
+               </item>
+               <item>Of <hi>Tripla's. p. 8</hi>
+               </item>
+               <item>Of <hi>Gracing Notes. p. 9</hi>
+               </item>
+               <item>Of the <hi>Concords</hi> in <hi>Muſick;</hi> with an eaſie Way of Joyning <hi>Parts</hi> together. <hi>p. 10</hi>
+               </item>
+               <item>The uſe of <hi>Diſcords. p. 15</hi>
+               </item>
+               <item>
+                  <hi>Reflections</hi> upon the <hi>Concords</hi> of <hi>Muſick. p. 16</hi>
+               </item>
+            </list>
+            <list>
+               <head>CONTENTS of the Second Part.</head>
+               <item>Of <hi>Diviſion</hi> to a <hi>Ground,</hi> and the manner of performing it. <hi>p. 21</hi>
+               </item>
+               <item>Three <hi>Sorts</hi> of <hi>Diviſion, viz. Breaking</hi> the <hi>Ground, Deſcanting</hi> upon it, and a <hi>Mix<g ref="char:EOLhyphen"/>ture</hi> of theſe <hi>One</hi> with the <hi>Other. Ib.</hi>
+               </item>
+               <item>Of <hi>Breaking</hi> the <hi>Ground. Ib.</hi>
+               </item>
+               <item>Five Wayes of <hi>Breaking</hi> a <hi>Note. p. 22</hi>
+               </item>
+               <item>How <hi>Diviſion</hi> is made <hi>Harmonious</hi> to the <hi>Holding-Note</hi> of the <hi>Ground. p. 24</hi>
+               </item>
+               <item>How <hi>Diviſion</hi> is brought off to meet the <hi>Next Note</hi> of the <hi>Ground. Ib.</hi>
+               </item>
+               <item>How <hi>Diviſion</hi> is to move below the <hi>Ground-Note. p. 25</hi>
+               </item>
+               <item>An <hi>Example</hi> of <hi>Breaking</hi> the <hi>Ground. p. 26</hi>
+               </item>
+               <item>An <hi>Obſervation</hi> for <hi>Playing Flatt</hi> or <hi>Sharp</hi> in the <hi>Seventh</hi> above, or <hi>Second</hi> below the <hi>Standing-Note. p. 27</hi>
+               </item>
+               <item>How to <hi>Break</hi> a <hi>Cadent-Note</hi> at a finall <hi>Cloſe,</hi> and How, Elſewhere. <hi>Ib.</hi>
+               </item>
+               <item>Of <hi>Deſcant-Diviſion,</hi> and how it differs from <hi>Breaking</hi> the <hi>Ground. p. 28</hi>
+               </item>
+               <item>Concerning a <hi>Sixth. Ib.</hi>
+               </item>
+               <item>Of <hi>Mixt-Diviſion. p. 29</hi>
+               </item>
+               <item>
+                  <hi>Cadences</hi> of two Sorts <hi>Ib.</hi>
+               </item>
+               <item>
+                  <hi>Examples</hi> upon the firſt Sort of <hi>Cadence. p. 30, 31</hi>
+               </item>
+               <item>
+                  <hi>Examples</hi> upon the ſecond Sort of <hi>Cadence. p. 32, 33</hi>
+               </item>
+               <item>
+                  <hi>Conſecution</hi> of <hi>Fifths</hi> or <hi>Eighths;</hi> How al<g ref="char:EOLhyphen"/>lowed, or not allowed in <hi>Diviſion</hi> to a <hi>Ground. p. 34</hi>
+               </item>
+               <item>An <hi>Example</hi> of a <hi>Cadence</hi> upon a <hi>Breve. p. 35</hi>
+               </item>
+               <item>Concerning <hi>Riſing,</hi> or <hi>Falling,</hi> in <hi>Thirds,</hi> or <hi>Sixths;</hi> and in what Caſes, This, or That is better. <hi>p. 36</hi>
+               </item>
+               <item>Of a <hi>Cloſe</hi> without a <hi>Cadence,</hi> and an <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> thereupon. <hi>p. 37</hi>
+               </item>
+               <item>
+                  <hi>Examples</hi> of <hi>Dividing</hi> upon <hi>Crochets, Ri<g ref="char:EOLhyphen"/>ſing,</hi> and <hi>Falling,</hi> by <hi>Degrees. p. 39, 40</hi>
+               </item>
+               <item>An <hi>Example</hi> of <hi>Dividing</hi> upon <hi>Crochets,</hi> moving by <hi>Leaps</hi> or <hi>Intervals. p. 41</hi>
+               </item>
+               <item>
+                  <hi>Quavers;</hi> to be Conſidered, whether they be not the <hi>Minute Parts</hi> of ſome <hi>Longer Note. p. 42</hi>
+               </item>
+               <item>An <hi>Example</hi> of <hi>Dividing</hi> upon <hi>Quavers, Ri<g ref="char:EOLhyphen"/>ſing,</hi> and <hi>Falling</hi> by <hi>Degrees. p. 43</hi>
+               </item>
+               <item>Of <hi>Notes</hi> being made <hi>Flatt,</hi> or <hi>Sharp,</hi> in re<g ref="char:EOLhyphen"/>lation to the <hi>Fourth</hi> above, or below. <hi>p. 44</hi>
+               </item>
+               <item>An <hi>Example</hi> of <hi>Quavers</hi> Moving by <hi>Leaps. Ib.</hi>
+               </item>
+               <item>How to <hi>Play Ex-tempore</hi> to a <hi>Gronnd. p. 45</hi>
+               </item>
+               <item>Concerning the Ordering and Diſpoſing of <hi>Diviſion. p. 47</hi>
+               </item>
+               <item>Of <hi>Compoſing Diviſion,</hi> for <hi>One Viol,</hi> to a <hi>Ground. Ib.</hi>
+               </item>
+               <item>Of <hi>Two Viols Playing</hi> together to a <hi>Ground. p. 48</hi>
+               </item>
+               <item>Some <hi>Obſervations</hi> in <hi>Compoſing Diviſion-Muſick</hi> of <hi>Two</hi> and <hi>Three Parts. p. 49</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:50897:6"/>
+            <head>
+               <hi>Part. I. THE DIVISION VIOLIST: OR</hi> An Introduction to the Playing upon a Ground.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I treat of <hi>Playing Diviſion to a Ground,</hi> I ſuppoſe it convenient to ſpeak of ſome things which muſt be <hi>known</hi> and <hi>prepared</hi> in order to that <hi>Deſigne.</hi> As firſt, a <hi>Viol</hi> fitted for that purpoſe: Next, <hi>Hands</hi> enabled to Play upon it; and then, ſome <hi>Knowledge</hi> in the Concords of Muſick. With theſe therefore I will begin, in aſſiſtance to ſuch as are not already ſufficiently inform'd therein: And firſt, concerning the <hi>Viol.</hi>
+            </p>
+            <figure>
+               <figDesc>two viols</figDesc>
+               <head>What kind of Viol is fitteſt for Diviſion, and how to be accomodated.</head>
+            </figure>
+            <p>I would have a <hi>Diviſion-Viol</hi> to be of ſomething a ſhorter <hi>ſice</hi> than a <hi>Conſort-Baſſe,</hi> that ſo the <hi>Hand</hi> may better command it; more or leſs ſhort, according to
+<pb n="2" facs="tcp:50897:7"/>the reach of his Fingers who is to uſe it: but the ordinary ſize, ſuch as may carry a String of thirty Inches from the Bridge (duely placed) to the Nutt. The <hi>Sound,</hi> quick, and ſprightly, like a <hi>Violin;</hi> and <hi>Viols</hi> of that ſhape (the Bellyes being digged out of the Planck) do commonly render ſuch a Sound. It muſt be <hi>accomo<g ref="char:EOLhyphen"/>dated</hi> with ſix Strings; and ſeven Frets, like thoſe of a <hi>Lute,</hi> but ſomthing thicker. The <hi>Strings,</hi> a little bigger than thoſe of a <hi>Lyra-Viol,</hi> which muſt be laid at the like nearneſs to the Finger-board, for eaſe and convenience of Stopping. The <hi>Bridge,</hi> as round as that of a <hi>Conſort-Baſſe,</hi> that ſo each ſeveral String may be hit with a bolder touch of the Bow. The <hi>Plate</hi> or <hi>Finger-board,</hi> exactly ſmooth, and even. Its <hi>Length,</hi> full two parts of three from the Nutt to the Bridge. It muſt alſo be of a <hi>proportionate</hi> roundneſs to the Bridge, ſo that each String may lie at an equal nearneſs to it.</p>
+            <figure>
+               <figDesc>finger-board</figDesc>
+               <head>As for Example.</head>
+            </figure>
+            <p>If the roundneſs of the Bridge be as the Arch <hi>A. B.</hi> then I would have the low end of the Finger-board,<note place="margin">Let <hi>Viol<g ref="char:EOLhyphen"/>makers</hi> take notice here<g ref="char:EOLhyphen"/>of.</note> to be as <hi>C. D.</hi> and the top of it as <hi>E. F.</hi>
+            </p>
+            <div type="subpart">
+               <head>The Bow.</head>
+               <p>A <hi>Viol-Bow</hi> for <hi>Diviſion,</hi> ſhould be ſtiff, but not heavy. Its <hi>Length,</hi> (betwixt the two places where the Haires are faſtned at each end) about 27 Inches. The <hi>Nutt,</hi> ſhort. The <hi>Height</hi> of it, about a Fingers bredth, or little more.</p>
+               <p>The <hi>Viol</hi> and <hi>Bow</hi> thus prepared, I muſt now teach you how to uſe them; and, in order thereto, firſt,</p>
+            </div>
+            <div type="subpart">
+               <head>How to Hold the <hi>Viol.</hi>
+               </head>
+               <p>Being ſeated, place your <hi>Viol</hi> decently betwixt your Knees, ſo that the lower end of it may reſt upon the Calves of your Legs. Set the Soles of your Feet, flat on the Floor; your Toes turned a little outward. Let the Top of the <hi>Viol</hi> be erected towards your left Sholder; ſo, as it may reſt in that poſture, though you touch it not with your Hand.</p>
+            </div>
+            <div type="subpart">
+               <head>How to Hold the <hi>Bow.</hi>
+               </head>
+               <p>Hold the <hi>Bow</hi> betwixt the ends of your Thumb and two foremoſt Fingers, near to the Nutt; the Thumb and firſt Finger faſtning upon the Stalk, and the ſecond Fingers end turned in ſhorter, againſt the Haires thereof; by which you may poize and keep up the point of the <hi>Bow.</hi> If the ſecond Finger have not ſtrength enough, you may joyn the third Finger in aſſiſtance to it; but in Playing Swift <hi>Diviſion,</hi> two Fingers and the Thumb is beſt in my opinion.</p>
+               <p>Holding the <hi>Bow</hi> in this poſture, you may ſtretch out your Arm, and draw it firſt over one String, and then another; croſſing them in right-angle at the diſtance of two or three Inches from the Bridge. Make each ſeveral String yield a full and cleer ſound; and order your Knees ſo, that they be no impediment to the Motion of your <hi>Bow.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The poſture of the left Hand.</head>
+               <p>When you are to ſet your Fingers upon the Strings, you muſt not graſp the Neck of your <hi>Viol</hi> like a <hi>Violin;</hi> but rather, (as thoſe that Play on the <hi>Lute,</hi>) keep your Thumb on the back of the Neck, oppoſite to your Fore-finger, ſo, as your Hand may have liberty to remove up and down, as occaſion ſhall re<g ref="char:EOLhyphen"/>quire.</p>
+               <pb n="3" facs="tcp:50897:7"/>
+               <figure>
+                  <figDesc>man playing a viol</figDesc>
+                  <head>How the <hi>Viol</hi> is Tuned and Applyed to the <hi>Scale</hi> of <hi>Muſick.</hi>
+                  </head>
+               </figure>
+               <p>It is ſuppoſed you underſtand <hi>Song,</hi> and conſequently the <hi>Scale</hi> of <hi>Mufick</hi> which known, the Tuning of your <hi>Viol</hi> appears in ſuch order as you ſee the Six
+<pb n="4" facs="tcp:50897:8"/>
+                  <hi>Semibreves,</hi> which ſtand one over another in the firſt part of the following <hi>Scale:</hi> Where note, that all the degrees of riſing above the higheſt of thoſe <hi>Semibreves,</hi> are expreſt on the <hi>Treble,</hi> or higheſt String, by Stopping it ſtill lower and lower upon the Neck of the <hi>Viol.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>When you have Tuned your <hi>Viol</hi> according to the Six <hi>Semibreves,</hi> your next buſineſs is to Play thoſe other Notes, which you ſee aſcend and deſcend by de<g ref="char:EOLhyphen"/>grees; over which I have ſet Figures to direct you with what Fingers to ſtop them; 1, 2, 3, 4, is ſet for firſt, ſecond, third, and fourth Finger. Thoſe which have no Figures are Play'd on the open Strings.</p>
+            </div>
+            <div type="subpart">
+               <head>Obſervation for playing Notes upon another String.</head>
+               <p>You muſt know that ſometimes Notes are not Play'd on Thoſe Strings to which they ſeem properly to belong; but for eaſe or better order of Fingering, are Play'd upon ſome Other String; an inſtance whereof you have in thoſe two Notes marked with little Stars over their Figures; which Notes are Play'd upon the ſecond String, though a little before, Notes ſtanding in the ſame places were Play'd upon the Treble: and therefore, when any difficulty ſhall occurre in Fingering, you muſt try which way the ſame Notes may be expreſt with moſt eaſe and convenience to the Hand.</p>
+               <p>The Example before-going, was ſet in the whole <hi>Scale,</hi> that you might better perceive where every <hi>Rule</hi> and <hi>Space</hi> take their places upon the <hi>Viol:</hi> but thoſe that follow, muſt be ſet down in the common way of 5 <hi>Lines;</hi> and when Notes exceed that compaſs, they are ſtill reduced into 5 <hi>Lines,</hi> by ſetting another Cliffe.</p>
+               <p>This which follows I would have you practiſe; firſt, in a ſlow meaſure, increa<g ref="char:EOLhyphen"/>ſing the quickneſs by degrees, as your Hand advanceth in readineſs; but be ſure to make all your Notes ſound cleer, and full; ſtopping the Strings firm and hard with the very ends of your Fingers: Alſo, give as much Bow to every <hi>Quaver</hi> as the length of it will permit. But before you ſet upon it, read the two Rules which follow.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>Here you muſt obſerve two general Rules; one is for Stopping the <hi>Strings;</hi> the other, for the Motion of the <hi>Bow.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <pb n="5" facs="tcp:50897:8"/>
+               <head>A Rule for Stopping.</head>
+               <p>Which is; that when you ſet any Finger down, you are to let it reſt there, (Playing the following Notes with other Fingers) until ſome occaſion require the removing it. This is done, both for better order of fingering; and that the Fingers may paſs more ſmoothly from Note to Note, without lifting them too far from the Strings; as alſo, to continue the ſound of a Note when the Bow hath left it. Inſtances of theſe Holdings you have where you ſee ſuch a Stroke as this ✓ marked for a Hold, and drawn from one, to ſome other diſtant Note. As for Example; The firſt four Quavers of the ſecond Bar, have ſuch a Mark under them; which ſigni<g ref="char:EOLhyphen"/>fies, that the third Finger, which ſtops the firſt of them, muſt be kept on, untill you have alſo play'd the fourth Quaver; becauſe, in playing the two middle Quavers, there is no neceſſity of taking it off. The like is to be obſerved in the reſt.</p>
+            </div>
+            <div type="subpart">
+               <head>A Rule for the Motion of the <hi>Bow.</hi>
+               </head>
+               <p>Concerning the <hi>Bow,</hi> obſerve; that when you ſee an <hi>Even</hi> number of <hi>Quavers, Semiquavers, &amp;c.</hi> as 2, 4, 6, 8. You muſt begin with your <hi>Bow</hi> Forward: Yea, though the <hi>Bow</hi> were imployed Forward in the next <hi>Note</hi> before them. But, if the Number be <hi>Odd;</hi> as 3, 5, 7. (which alwayes happens by reaſon of ſome <hi>Prick-Note</hi> or odd <hi>Reſt</hi>) the firſt of that odd Number muſt be play'd Back<g ref="char:EOLhyphen"/>ward. And this is moſt properly the Motion of the <hi>Bow;</hi> although not abſolutely without exception.</p>
+               <p>When you can Play the laſt Example, you may practiſe This following.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>It is now requiſite your <hi>Hand</hi> be accuſtomed to Play <hi>Notes</hi> which aſcend above the <hi>Fretts;</hi> (<hi>above</hi> I call it, in relation to Sound; being <hi>lower,</hi> as to the <hi>Neck</hi> of the <hi>Viol</hi>) to which purpoſe, I propoſe unto you the following Example; with which, I muſt alſo give you</p>
+            </div>
+            <div type="subpart">
+               <head>An Obſervation for Fingering.</head>
+               <p>Here you may obſerve, that in any Point of <hi>Diviſion</hi> which reaches to the lower <hi>Fretts,</hi> or beyond them, the Higheſt <hi>Note</hi> thereof is alwayes Stopt, either with the Third, or with the Fourth Finger. If with the Third; the Firſt and Se<g ref="char:EOLhyphen"/>cond Fingers take their orderly places in Stopping the two <hi>Notes</hi> gradually aſcending to it, or deſcending from it. If the Higheſt <hi>Note</hi> imploy the Fourth Finger; then the next <hi>Note</hi> under it, is Stopt, either with the Third, or with the Se<g ref="char:EOLhyphen"/>cond Finger; according as the ſaid <hi>Under-Note</hi> is either <hi>Flat</hi> or <hi>Sharp:</hi> If <hi>Sharp;</hi> with the Third: If <hi>Flat;</hi> with the Second Finger. But whether the higheſt <hi>Note</hi> imploy the Third, or Fourth Finger, you may be aſſured that the 3<hi rend="sup">d.</hi> below it muſt be Stopt with the Firſt Finger; which alwayes ſerves as a Guide unto thoſe two <hi>Notes</hi> which are above it. And whereas you will ſee ſometimes two Succeſ<g ref="char:EOLhyphen"/>ſive <hi>Notes,</hi> Stopt one after the other, with the ſame Finger; it is alwayes done,
+<pb n="6" facs="tcp:50897:9"/>either to prepare the Fingers to this Poſture, or to remove the ſaid Poſture to ſome other Place. This Order of Fingering, holds good throughout the whole <hi>Finger-board,</hi> (in Stopping three Succeſſive <hi>Notes</hi> upon any one String;) with this only difference; that, where the <hi>Stopps</hi> are Wide, (as amongſt the <hi>Fretts,</hi>) the Fourth or Little Finger, is of more uſe, then Lower down, where the <hi>Stopps</hi> are more Contract.</p>
+               <p>As for the Poſture of the Fingers, in moving from one String to another; (which for diverſity of Circumſtances cannot ſo well be reduced to <hi>Rule;</hi>) I muſt referre you to your Own Obſervation; in making uſe of thoſe Fingers which offer themſelves the readieſt and apteſt for ſtopping any ſucceeding <hi>Note.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>If you find any difficulty in this Example, Play it the ſlower, untill your <hi>Hand</hi> ſhall have overcome it.</p>
+               <p>I muſt now apply your <hi>Hand</hi> to the Playing of quicker <hi>Notes,</hi> yet not till I have ſaid ſomething concerning</p>
+            </div>
+            <div type="subpart">
+               <head>The Motion of the Right Arme and Wriſt.</head>
+               <p>I have already told you, that you muſt ſtretch out your <hi>Arme,</hi> ſo, that your <hi>Bow</hi> may croſs the Strings near to the <hi>Bridg:</hi> In which Poſture, it is more then probable you will move your <hi>Shoulder-Joint:</hi> for, in Playing long <hi>Notes,</hi> neceſſity will enforce you ſo to do: But if you ſtir that <hi>Joint</hi> in <hi>Quick-Notes,</hi> it will cauſe your whole <hi>Body</hi> to ſhake; which, by all means muſt be avoided; as alſo, any other indecent Geſture. <hi>Quick Notes</hi> therefore muſt be expreſt, by moving ſome <hi>Joint</hi> nearer the <hi>Hand:</hi> which is generally agreed upon to be the <hi>Wriſt.</hi> The Queſtion then ariſing, is about the Menage of the <hi>Elbow-Joint;</hi> concerning which, there are two different Opinions. Some will have it to be kept ſtreight and ſtiff: In<g ref="char:EOLhyphen"/>ſomuch, that I have heard a very Eminent and Judicious <hi>Violiſt</hi> poſitively affirm, <hi>That if a Scholar can but attain to the Playing of</hi> Quavers <hi>with his</hi> Wriſt, <hi>keeping his</hi> Arme <hi>ſtreight and ſtiff in the</hi> Elbow; <hi>he hath got the Maſtery of the</hi> Bow-Hand. Others contend, that the <hi>Motion</hi> of the <hi>Wriſt</hi> muſt be ſtrengthned, and aſſiſted by a Compliance or Yielding of the <hi>Elbow-Joint</hi> unto it: and they, to back their Ar<g ref="char:EOLhyphen"/>gument, produce, for Inſtance, a<note n="*" place="margin">
+                     <hi>Mr.</hi> Daniel <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orcome.</note> Perſon, Famous for the Excellency of the <hi>Bow-Hand,</hi> uſing a Free and Looſe <hi>Arme.</hi> To deliver my own Opinion, I do much approve the ſtreightneſs of the <hi>Arme;</hi> eſpecially in Beginners; becauſe, it is a means to keep the <hi>Body</hi> upright, which is a commendable Poſture. I can alſo ad<g ref="char:EOLhyphen"/>mit the ſtiffneſs of the <hi>Elbow,</hi> in Smooth Diviſion; for which it is moſt properly apt: But Croſs, and Skipping Diviſion, cannot (I think) be <hi>Well</hi> expreſt, with<g ref="char:EOLhyphen"/>out ſome <hi>Conſent</hi> or <hi>Yielding</hi> of the <hi>Elbow-Joint</hi> unto the <hi>Motion</hi> of the <hi>Wriſt.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <pb n="7" facs="tcp:50897:9"/>
+               <head>How to gain the Motion of the Wriſt.</head>
+               <p>The beſt way I can adviſe you, is (upon moving the <hi>Bow</hi> Forward, and Back<g ref="char:EOLhyphen"/>ward) to carry the <hi>Hand,</hi> To, and Fro, a little beyond the Motion of the <hi>Arm;</hi> in ſuch manner, that the <hi>Arme</hi> Returning, ſhall (as it were) Draw the <hi>Hand</hi> after it. When you can do this in Longer <hi>Notes,</hi> you may Practice it in ſhorter, by degrees; a little Exerciſe will effect it.</p>
+               <p>I will ſet your next Example in <hi>C-fa-ut,</hi> with the Loweſt String put down a <hi>Note,</hi> to make it a <hi>Sub-Octave</hi> thereunto; as we commonly do, when we Play in that <hi>Key.</hi> And as I have formerly admoniſhed you to Practice your Examples, firſt Slow, and then Faſter, by degrees; that admonition is moſt requiſite in Playing Swift Diviſion; where you muſt alſo have a Care, that the Motion of your <hi>Bow,</hi> and Fingers, do equally anſwer one another; Bearing your <hi>Bow</hi> mode<g ref="char:EOLhyphen"/>rately upon the Strings, at a convenient diſtance from the Point thereof; by which means, you ſhall make your ſwifteſt <hi>Notes</hi> more diſtinguiſhable: A thing, in which many fail; either through want of a due compliance of the <hi>Bow</hi> to the <hi>Strings;</hi> or by not exactly croſſing them at a right diſtance from the <hi>Bridge;</hi> or elſe; by Playing too near the Point of the <hi>Bow;</hi> which Errors I note, that you may avoid them.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>I have added a little Peece at the end of this Example, as an Exception againſt the Rule of Beginning every Even Number, Forward:<note place="margin">Exception.</note> (mentioned <hi>Page</hi> 5.) in which the Quickneſs of Motion doth not admit a Change of the <hi>Bow;</hi> But you muſt Play them (as neceſſity will enforce you) ſome Forward, and ſome Backward. Alſo quick <hi>Notes,</hi> Skipping from the <hi>Treble</hi> to the <hi>Baſs,</hi> and ſo purſued; are beſt expreſt with <hi>Contrary Bowes.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The Motion of the <hi>Bow</hi> in Double Stopps.</head>
+               <p>Here take Notice, that when 2, 3. or more <hi>Notes</hi> ſtand One over Another (as you have in two places of the laſt Example;) they muſt be played as One; by ſliding the <hi>Bow</hi> over thoſe Strings which expreſs the ſound of the ſaid <hi>Notes.</hi> Now, There they fell out ſo, as to be Played by putting the <hi>Bow</hi> forward; which is the uſuall way, when there comes but <hi>one</hi> of them by it ſelf. But if there happen <hi>divers</hi> of them ſucceſſively (as in the Paſſages next following,) then, each other of them muſt, of neceſſity, be Played by drawing the Bow back: But whe<g ref="char:EOLhyphen"/>ther Back, or Forward, be ſure alwayes to hitt the Loweſt String Firſt; and let the <hi>Bow</hi> ſlide from it to the higheſt, touching the middle <hi>Notes</hi> in it's Paſſage be<g ref="char:EOLhyphen"/>twixt them.</p>
+               <pb n="8" facs="tcp:50897:10"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>The Figures, for more convenience, are here ſet before the <hi>Notes;</hi> where mark, that where you have this Figure [1] ſet before 2, 3. or more <hi>Notes</hi> in one <hi>Stop;</hi> the Firſt Finger muſt be lay'd ſtreight over all the ſaid <hi>Notes.</hi> In which, as alſo in all double Stops, the Poſture of the Left-Hand is the ſame as if you Play'd upon a <hi>Theorbo,</hi> or the <hi>Lute</hi> in its Old Tuning.</p>
+               <p>I will ſet you one Example more, and then I have done, as farre as concerns exerciſing the <hi>Hand</hi> for <hi>Diviſion.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>When you have practiſed theſe Examples according to the Inſtructions given, you may then, for variety, look upon ſome of thoſe <hi>Diviſions</hi> adjoyned to this Book: Amongſt which ſome are eaſie made purpoſely for Learners; others of them re<g ref="char:EOLhyphen"/>quire the <hi>Hands</hi> of a good Proficient. And becauſe in thoſe (as alſo in other men's <hi>Diviſions</hi>) you will meet ſometimes with <hi>Tripla's</hi> of divers ſorts, I think it not amiſs to ſpeak of them in this Place.</p>
+            </div>
+            <div type="subpart">
+               <head>
+                  <hi>Of</hi> Tripla's.</head>
+               <p>Sometimes the Grounds themſelves are <hi>Tripla-Time;</hi> conſiſting (uſually) either of three <hi>Semibreves,</hi> or three <hi>Minims,</hi> or three <hi>Crochets</hi> to a Meaſure. Some<g ref="char:EOLhyphen"/>times
+<pb n="9" facs="tcp:50897:10"/>you may meet with a <hi>Tripla</hi> upon a <hi>Tripla;</hi> as for inſtance, when, upon a Ground conſiſting of three <hi>Minims</hi> to a Meaſure, each <hi>Minim</hi> is divided into three <hi>Crochets,</hi> ſix <hi>Quavers,</hi> or the like.</p>
+               <p>Again; in Diviſions upon Grounds of the <hi>Common-Time,</hi> containing two <hi>Mi<g ref="char:EOLhyphen"/>nims</hi> to a Meaſure, you will meet, now and then, with divers <hi>Tripla's:</hi> as, ſome<g ref="char:EOLhyphen"/>times three <hi>Crochets</hi> to a <hi>Minim,</hi> producing ſix <hi>Quavers,</hi> twelve <hi>Semiquavers, &amp;c.</hi> Sometimes three <hi>Quavers</hi> to a <hi>Crochet,</hi> and ſometimes alſo, three <hi>Semiquavers</hi> to a <hi>Quaver:</hi> The Meaſure of all which will not be hard to find out, where the Quantity of each <hi>Semibreve</hi> is ſcored out with <hi>Barres.</hi>
+               </p>
+               <p>It now remains, that in directing the <hi>Hand,</hi> I ſpeak ſomething concerning the Graceing of <hi>Notes.</hi> And though it be a thing which depends much upon <hi>Humour,</hi> and <hi>Imitation,</hi> yet I will try how farre it may be delivered in <hi>Words,</hi> and <hi>Ex<g ref="char:EOLhyphen"/>amples.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>Of Graceing <hi>Notes.</hi>
+               </head>
+               <p>Graceing of <hi>Notes</hi> is performed two Wayes; <hi>viz.</hi> by the <hi>Bow,</hi> and by the <hi>Fingers.</hi> By the <hi>Bow;</hi> as when we Play <hi>lowd,</hi> or <hi>ſoft,</hi> according to our Fancy,<note place="margin">Graces done with the <hi>Bow.</hi>
+                  </note>or the Humour of the <hi>Muſick.</hi> Again; this lowd, and ſoft, is ſometimes expreſt in One and the ſame <hi>Note;</hi> as when we make it <hi>ſoft</hi> in the <hi>beginning,</hi> and then (as it were) ſwell, or grow lowder, towards the <hi>middle,</hi> or <hi>ending.</hi> Some alſo af<g ref="char:EOLhyphen"/>fect a kind of Shake or Tremble with the <hi>Bow,</hi> like the ſhaking Stop of an <hi>Or<g ref="char:EOLhyphen"/>gan:</hi> but the frequent uſe thereof (in my opinion) is not commendable. To theſe may be added, that of Playing 2, 3. or more <hi>Notes</hi> with one Motion of the <hi>Bow,</hi> which would not have that Grace, or Ornament, if they were Played ſe<g ref="char:EOLhyphen"/>verally.</p>
+               <p>
+                  <hi>Graces</hi> done with the <hi>Fingers,</hi> are of two ſorts: <hi>viz. ſmooth,</hi> and <hi>ſhaked.</hi>
+                  <note place="margin">Smooth Graces.</note>
+                  <hi>Smooth</hi> is, when in riſing, or falling, a <hi>Tone,</hi> or <hi>Semitone,</hi> we ſeem to draw as it were, the Sound from one <hi>Note</hi> to another, in imitation of the <hi>Voice;</hi> and is ex<g ref="char:EOLhyphen"/>preſſed by ſetting down, or taking off the Finger, a little after the touch of the <hi>Bow.</hi> In aſcending, it makes that Grace which we call a <hi>Plain-Beat</hi> or <hi>Riſe;</hi>
+                  <note place="margin">Plain-Beat, Backfall.</note> in deſcending, that called a <hi>Backfall.</hi>
+               </p>
+               <p>Sometimes a <hi>Note</hi> is graced by ſliding to it from the <hi>Third below,</hi> called an <hi>Elevation,</hi> now ſomething obſolete. Sometimes from the <hi>Third above;</hi>
+                  <note place="margin">Elevation. Double Backfall</note> which we call a Double <hi>Backfall.</hi> This ſliding a <hi>Third, up,</hi> or <hi>down,</hi> is alwayes done upon one String. Again; a <hi>Note</hi> is ſometimes graced by joyning part of its ſound to the <hi>Note</hi> following; like a <hi>Prickt-Crochet:</hi> whoſe following <hi>Quaver</hi> is Placed with the enſuing <hi>Note,</hi> but Played with the ſame <hi>Bow</hi> of his <hi>Prickt-Crochet:</hi> This we will call a <hi>Cadent.</hi> There is yet another plain or ſmooth Grace, called a <hi>Spinger,</hi>
+                  <note place="margin">Cadent. Spinger.</note>which concludeth the found of a <hi>Note</hi> more acute, by clapping down another Finger juſt at the expiring of it.</p>
+            </div>
+            <div type="subpart">
+               <head>Shaked Graces.</head>
+               <p>The other ſort of Graces is done by the <hi>Shake,</hi> or <hi>Tremble</hi> of a Finger;<note place="margin">Cloſe ſhake.</note> of which, there are two kinds: <hi>viz.</hi> Cloſe, and Open. <hi>Cloſe,</hi> is that when wee ſhake a Finger as cloſe and near to that which ſtoppeth as may be; touching the String, therewith, ſo gently, and nicely, as to make no Variation of <hi>Tone:</hi> This may be uſed where no other Grace is concerned. <hi>Open</hi> is,<note place="margin">Open<g ref="char:EOLhyphen"/>ſhake.</note> when a Fin<g ref="char:EOLhyphen"/>ger is ſhaked in that diſtance from whence it was removed, or is to be ſet down; ſuppoſing the diſtance exceed not the wideneſs of a whole <hi>Tone,</hi> or two <hi>Fretts;</hi> for wider then that we never ſhake.</p>
+               <p>Graces made with open Shakes are theſe. A <hi>Beat;</hi> a <hi>Backfall;</hi> an <hi>Elevation;</hi>
+                  <note place="margin">Shaked <hi>Beat.</hi>
+                  </note> a <hi>Cadent:</hi> and double <hi>Reliſh.</hi> The <hi>Beat</hi> is the ſame in Nature with the <hi>Plain-Beat</hi> or <hi>Riſe;</hi> the difference, only a ſhort ſhake of a Finger, before we fix it upon the Place deſigned. This, as alſo the <hi>Plain-Beat,</hi> is commonly made from the <hi>Half-Note,</hi> or diſtance of one <hi>Frett.</hi> The ſhaked <hi>Backfall</hi> is likewiſe the ſame in Na<g ref="char:EOLhyphen"/>ture with the Plain <hi>Backfall,</hi> the difference only a ſhake of the Finger taken off;<note place="margin">Shaked <hi>Backfall,</hi>
+                  </note>which muſt be done in that wideneſs whence it was removed. How an <hi>Elevation,
+<pb n="10" facs="tcp:50897:11"/>Cadent,</hi> and double <hi>Reliſh,</hi> imploy an open Shake, will better appear in their Ex<g ref="char:EOLhyphen"/>amples. To theſe may be added the <hi>Grappo, Trillo,</hi> or any other movement of the Voice, imitated on the <hi>Viol,</hi> by Playing the like moving <hi>Notes</hi> with one Mo<g ref="char:EOLhyphen"/>tion of the <hi>Bow.</hi>
+               </p>
+               <p>The <hi>Markes</hi> of theſe <hi>Graces,</hi> applyed to their proper <hi>Notes,</hi> and their <hi>Explica<g ref="char:EOLhyphen"/>tions,</hi> are as you ſee following. <hi>Exp.</hi> is ſet for <hi>Explication.</hi> Thoſe <hi>Notes</hi> which have an <hi>Arch,</hi> or <hi>Stroke,</hi> ſet under, or over them, are Play'd with one Motion of the <hi>Bow.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Beat. exp: Backfall exp: Double-Backfall exp: eſevation. exp Spinger. exp: Cadent. exp: Backfall Shaked exp: Shaked Graces Close Shake. exp: Shaked Beat. exp: elevation exp: Cadent. exp: Double Relish exp: or thus: exp: For theſe, I am obliged to the ever famous Charles Colman Doctor in Muſick</hi>
+               </p>
+               <p>Of theſe, ſome are more rough and Maſculine; as, your ſhaked <hi>Beats</hi> and <hi>Backfals;</hi> and therefore more peculiar to the <hi>Baſſe.</hi> Others more ſmooth and fe<g ref="char:EOLhyphen"/>minine; as, your <hi>Cloſe-ſhake</hi> and <hi>Plain-Graces,</hi> which are more natural to the <hi>Treble,</hi> or upper Parts. Yet when we would expreſs Life, Courage, or Chear<g ref="char:EOLhyphen"/>fulneſs, upon the <hi>Treble,</hi> we do frequently uſe both ſhaked <hi>Beats</hi> and <hi>Backfals:</hi> as, on the contrary, ſmooth and ſwelling <hi>Notes,</hi> when we would expreſs Love, Sor<g ref="char:EOLhyphen"/>row, Compaſſion, or the Like; and this, not only on the <hi>Treble,</hi> but ſome<g ref="char:EOLhyphen"/>times alſo upon the <hi>Baſſe.</hi> And all theſe are concerned in our <hi>Diviſion-Viol,</hi> as imploying the whole Compaſs of the <hi>Scale,</hi> and acting by turns all the Parts therein contained.</p>
+               <p>The <hi>Hand</hi> being thus directed, we will now proceed to the <hi>Concords</hi> of <hi>Muſick.</hi> Not that I make it here my buſineſs to treat of all that belongs to the Art of Compoſing, (a Subject upon-which ſo many Volumes have been writ) but in aſſiſtance to ſuch as be ignorant therein: to ſhew, at leaſt ſome Rudiments there<g ref="char:EOLhyphen"/>of, neceſſary to be known in Order to our following Diſcourſe: which (perhaps) I ſhall deliver in a Method more eaſie then my <hi>Reader</hi> ſhall find in other <hi>Authors.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>Of the <hi>Concords</hi> in <hi>Muſick:</hi> with an eaſie Way of Joyning Parts together.</head>
+               <p>Although our Excellent Countryman Mr. <hi>Morley,</hi> in his <hi>Introduction</hi> to <hi>Muſick,</hi> doth take his Sight, and reckon his <hi>Concords</hi> from the <hi>Tenor,</hi> as the Holding Part to which he, and the <hi>Muſicians</hi> of former Times were accuſtomed to apply their Deſcant; in order to the <hi>Gregorian Muſick</hi> of the Church: yet here, for bet<g ref="char:EOLhyphen"/>ter Reaſons, (as to our preſent Purpoſe) I muſt propoſe unto you the <hi>Baſſe,</hi> as
+<pb n="11" facs="tcp:50897:11"/>the Ground-Work, or Foundation upon which the other Parts are to be erected;<note place="margin">The <hi>Baſſe</hi> is the foundation.</note>and from which, we muſt reckon or meaſure thoſe diſtances, in the <hi>Scale</hi> of <hi>Mu<g ref="char:EOLhyphen"/>ſick,</hi> called <hi>Cencords,</hi> and <hi>Diſcords. Concords</hi> are, a Third, a Fifth, a Sixth, an Eighth; (by theſe, I mean alſo their <hi>Octaves.</hi>) <hi>An</hi> Uniſon <hi>I do not mention, becauſe it hath no difference of</hi> Tone, <hi>but bears the ſame relation to</hi> Concords, <hi>as</hi> Unity <hi>doth to</hi> Numbers. All other Diſtances; as a Second, Fourth, Seventh, and their <hi>Octaves</hi> (Computing from the <hi>Baſs</hi>) are <hi>Diſcords.</hi> Of <hi>Concords,</hi> two are Per<g ref="char:EOLhyphen"/>fect; <hi>viz.</hi> a Fifth, and an Fighth. The other two, Imperfect; to wit, a Third,<note place="margin">Eighth &amp; Fifth are Perfect <hi>Concords.</hi> Third and Sixth Im<g ref="char:EOLhyphen"/>perfect. Two Per<g ref="char:EOLhyphen"/>fects of the ſame kind not allowed, the Parts riſing or falling to<g ref="char:EOLhyphen"/>gether.</note>and a Sixth. Why this, or that, is called Perfect, or Imperfect, is a diſpute which doth not here concern us, the uſe of them being now our Buſineſs. And this to a Beginner, is beſt delivered in <hi>Counterpoint;</hi> that is, ſetting and comparing <hi>Note</hi> againſt <hi>Note.</hi> In order to which you muſt firſt know, that two <hi>Perfects</hi> of the ſame kind, as two Fifths, or two Eighths, are not allowed in <hi>Muſick,</hi> unleſs when the <hi>Notes</hi> keep ſtill their places.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>5 5 5 5 8 8 8 8 5 5 5 8 8 <hi>Not allowed, not allowed, allowed, allowed.</hi>
+               </p>
+               <p>But you may paſs from a Fifth to an Eighth, or from an Eighth to a Fifth, when you pleaſe: provided, that one of the Parts, either keep ſtill its place, or remove but one degree; for if both Parts skip together, the Paſſage is leſs plea<g ref="char:EOLhyphen"/>ſing.</p>
+               <p>As for Thirds and Sixts, which are Imperfect <hi>Concords,</hi> two, three or more of them, riſing or falling together is no <hi>Soloeciſme</hi> in <hi>Muſick.</hi> In fine, you have liberty to paſs from any one, to any other different <hi>Concord,</hi> ſo you avoid <hi>Rela<g ref="char:EOLhyphen"/>tion</hi> not <hi>Harmonical;</hi> that is, a harſh and unpleaſing Reflection of <hi>Flat</hi> againſt <hi>Sharp.</hi>
+               </p>
+               <p>Next; you muſt know, that every Compoſition in <hi>Muſick,</hi> be it long or ſhort,<note place="margin">Concer<g ref="char:EOLhyphen"/>ning the <hi>Key, Tone,</hi> or <hi>Mood.</hi>
+                  </note>is deſigned to ſome one <hi>Key, Mood,</hi> or <hi>Tone,</hi> in which the <hi>Baſſe</hi> doth alwayes con<g ref="char:EOLhyphen"/>clude. This <hi>Key,</hi> or <hi>Tone,</hi> is ſaid to be either <hi>Flat,</hi> or <hi>Sharp,</hi> in reſpect of the leſſer or greater Third taking its place immediately above it. As for Example, ſuppoſe the <hi>Key</hi> to be in <hi>G,</hi> with a <hi>b Flat</hi> in <hi>B.</hi> Then I ſay, it is a <hi>flat Key;</hi> becauſe from <hi>G</hi> to <hi>b Flat</hi> is the leſſer Third. But if there be no ſuch <hi>b Flat</hi> ſtanding in <hi>B,</hi> it is then the greater Third, and called a <hi>ſharp Key.</hi> And ſo you may conceive of the <hi>Key,</hi> in any other place of the <hi>Scale.</hi>
+               </p>
+               <p>Now as the <hi>Baſſe</hi> is ſet in a <hi>flat,</hi> or <hi>ſharp Key,</hi> ſo muſt all the other upper Parts; for by <hi>Key</hi> or <hi>Tone,</hi> is meant, not only that wherein the <hi>Baſſe</hi> doth end, but all the <hi>Octaves</hi> to it.</p>
+               <p>Theſe things known,<note place="margin">How to frame the <hi>Baſſe.</hi>
+                  </note> I would have you prick down ſome ſhort <hi>Baſſe</hi> or <hi>Ground;</hi> concerning which, take theſe Advertiſements. Firſt, that it be natural to the <hi>Key;</hi> making its middle Cloſes, (if it have any) in thoſe <hi>Keys</hi> which have affi<g ref="char:EOLhyphen"/>nity with the final <hi>Key.</hi> Such are the Fifth and flat Third above it. If the <hi>Key</hi> be ſet with a ſharp Third, (which, of it ſelf, is not very proper for a middle Cloſe) you may in ſtead thereof, make uſe of the Fourth or Second above the fi<g ref="char:EOLhyphen"/>nal <hi>Key.</hi>
+               </p>
+               <pb n="12" facs="tcp:50897:12"/>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Key flat Fifth. Third. Key ſharp. Fifth. Fourth. Second.</hi>
+               </p>
+               <p>Secondly that your <hi>Baſſe</hi> do move, for the moſt part, by leaps of a Third, Fourth, or Fifth; uſing degrees no more then to keep it within the proper bounds and <hi>Ayre</hi> of the <hi>Key.</hi> Laſtly that for more eaſe, you make choice of a <hi>flat Key</hi> to be<g ref="char:EOLhyphen"/>gin with; and avoid ſetting <hi>ſharp Notes</hi> in it, for ſome reaſons which ſhall appear hereafter.</p>
+               <p>Let this ſhort <hi>Baſs</hi> ſerve you as an Example, which hath a middle Cloſe in <hi>B</hi> the <hi>Flat</hi> Third to the <hi>Key.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Third.</hi>
+               </p>
+               <p>Having prickt a <hi>Baſs</hi> in this Manner, you may joyn a <hi>Treble</hi> thereto, by ſetting a Third, Fifth, or Eighth over each <hi>Note</hi> of the <hi>Baſs.</hi> As for the Sixth (pro<g ref="char:EOLhyphen"/>perly belonging to <hi>ſharp Notes</hi>) I ſhall ſpeak of it by and by.<note place="margin">How to frame the <hi>Treble.</hi>
+                  </note> Now, as the proper movement of the <hi>Baſs,</hi> (in <hi>Counterpoint</hi>) is, for the moſt part, by Leaps, as be<g ref="char:EOLhyphen"/>fore mentioned, ſo the Natural Progreſſion of the <hi>Treble</hi> is, a riſing and falling by degrees; and therefore when you have ſet a Third, Fifth, or Eighth, over the firſt <hi>Note</hi> of the <hi>Baſs;</hi> you may then take for your next (and ſo from one to another) that <hi>Concord</hi>) which affords the neareſt compliance to that Movement by degrees, thus:</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>3 5 3 5 3 5 3 5 8 </p>
+               <p>
+                  <hi>If you ſet a Figure under every</hi> Note <hi>as you Prick it, to ſignifie what</hi> Concord <hi>it is to the</hi> Baſs, <hi>(as you here ſee them) it will be ſome eaſe to your</hi> Eye, <hi>and</hi> Memory.</p>
+               <p>Here take Notice, that in few Parts, Imperfect <hi>Concords</hi> are more delightfull then Perfect: as affording more variety, and not ſatiating or cloying the <hi>Eare</hi> ſo much as the multiplicity of <hi>Perfects</hi> do. Hence it proceeds, that in two Parts, we ſeldome uſe an Eighth, unleſs to the <hi>Beginning-Note: Ending Note;</hi> ſome <hi>Ca<g ref="char:EOLhyphen"/>dent-Note;</hi> or when the Parts proceed in contrary Motion; that is, one riſing and the other falling.</p>
+               <p>When you are perfect in ſetting a <hi>Treble</hi> to your <hi>Baſs,</hi> you may adde to them a third Part;<note place="margin">Compoſi<g ref="char:EOLhyphen"/>tion of three Parts.</note> as for Inſtance, an <hi>Alt;</hi> whoſe proper Region is next under the <hi>Tre<g ref="char:EOLhyphen"/>ble;</hi> and therefore I would have you ſet it (<hi>Note</hi> for <hi>Note</hi>) in thoſe <hi>Concords</hi> which are the neareſt thereto. Provided that, if you intend your Compoſition for no more then three Parts, one of the two upper Parts be ſtill a Third to the <hi>Baſs:</hi> for the reaſon above mentioned.</p>
+               <pb n="13" facs="tcp:50897:12"/>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>3 5 3 5 3 5 5 3 5 8 8 3 8 3 8 3 3 8 3 8 </p>
+               <p>
+                  <hi>I have made the</hi> Treble <hi>and</hi> Alt <hi>both of them end in the</hi> Eighth <hi>to the</hi> Baſs; <hi>which in my opinion, is better (the</hi> Key <hi>being flat) then to have the</hi> Treble <hi>end in the</hi> ſharp Third; <hi>that</hi> Concord <hi>being more proper to ſome</hi> inward <hi>Part, at a Concluſion.</hi>
+               </p>
+               <p>As for thoſe two <hi>Notes</hi> you ſee made ſharp in the <hi>Alt;</hi> take this obſervation: that when the <hi>Baſs</hi> riſes a Fourth, or fals a Fifth; it commonly requires the <hi>ſharp</hi> or greater <hi>Third,</hi> to that <hi>Note</hi> from which it ſo riſeth, or falleth.</p>
+               <p>Being Perfect and ready in Compoſing three Parts; you may try how you can adde to them a <hi>Fourth,</hi> which now remains to be the <hi>Tenor;</hi> concerning which, theſe things are to be obſerved.<note place="margin">Compoſi<g ref="char:EOLhyphen"/>tion of four Parts</note> (1) That it be ſet (as much as may be) in <hi>Concords</hi> different from the other two <hi>upper</hi> Parts. (2) That it be ſet as near as you can, to the <hi>Alt;</hi> for the Melody is beſt, when the <hi>upper</hi> Parts are joyned cloſe together. (3) That you avoid the Conſecution of two <hi>Fifths,</hi> or two <hi>Eighths</hi> riſing or falling together; as well amongſt the <hi>upper</hi> Parts themſelves, as betwixt any one Part and the <hi>Baſſe.</hi> All which is at once performed, by taking the Next <hi>Concord</hi> (<hi>Note</hi> for <hi>Note</hi>) which you find under the <hi>Alt,</hi> Thus:</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>3 5 3 5 3 5 5 3 5 8 8 3 8 3 8 3 3 8 3 8 5 8 5 8 5 8 8 5 8 3 </p>
+               <p>
+                  <hi>I have broken the laſt</hi> Note <hi>but one, of the</hi> Alt, <hi>into two</hi> Crochets, <hi>and joyned one of them to the</hi> Note <hi>before it; making it, by that means, a Bin<g ref="char:EOLhyphen"/>ding</hi> Cadence: <hi>which you may imitate, upon the like</hi> Notes, <hi>in that</hi> Part <hi>alwayes which bears the</hi> Sharp <hi>or greater</hi> Third <hi>to the</hi> Baſſe, <hi>in the next</hi> Note <hi>before any</hi> Cloſe.</p>
+               <p>Here you ſee Three <hi>Concords, viz.</hi> a <hi>Third, Fifth</hi> and <hi>Eighth,</hi> interchangeably imployed by the Three Upper Parts. And, though for eaſe, and orders ſake, I ſhewed you, firſt, how to joyn One Part to your <hi>Baſſe;</hi> then Two; and laſtly, Three Parts; by ſetting, and adding one <hi>Part</hi> after another: Yet, now it is left to your liberty, (when you intend your Compoſition, at firſt, for three or four Parts,) to carry on all your upper Parts together; diſpoſing them into theſe three <hi>Concords</hi> as you ſhall think moſt convenient. It is no matter which of the upper Parts im<g ref="char:EOLhyphen"/>ploy the <hi>Third,</hi> ſo any one of them have it. And this is as much as I think ne<g ref="char:EOLhyphen"/>ceſſary, for joyning ſo many Parts together as have been here mentioned; ſuch,<note place="margin">Concern<g ref="char:EOLhyphen"/>ing a Sixth, and what <hi>Notes</hi> in the <hi>Baſſe</hi>
+                  </note> I mean, as wherein a <hi>Sixth</hi> is not concerned. But if your <hi>Baſs</hi> have ſharp <hi>Notes</hi> in it (ſuch are commonly the half <hi>Note</hi> under the <hi>Key;</hi> the greater <hi>Third</hi> above it: and ſometimes alſo, the leſs <hi>Third</hi> under it; Such <hi>Notes,</hi> I ſay, ſtanding in theſe
+<pb n="14" facs="tcp:50897:13"/>Places, do commonly require a Sixth to be joyned to them, as you here ſee them.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>3 6 3 3 3 3 8 3 5 8 8 3 3 8 8 6 5 8 3 8 5 8 6 5 5 3 3 5 8 3 </p>
+               <p>Here you have three <hi>Notes</hi> in the <hi>Baſſe,</hi> which require the leſſer <hi>Sixth</hi> to be ioyned to them. The firſt in <hi>E,</hi> (the leſſer <hi>Third</hi> under the <hi>Key</hi>) whoſe <hi>Sixth</hi> is in the <hi>Treble.</hi> The ſecond in <hi>F Z</hi> (the half <hi>Note</hi> under the <hi>Key</hi>) whoſe <hi>Sixth</hi> is in the <hi>Tenor.</hi> The third in <hi>B ſharp</hi> (the grea<g ref="char:EOLhyphen"/>ter <hi>Third</hi> above the <hi>Key</hi>) whoſe <hi>Sixth</hi> is in the <hi>Alt.</hi> Concerning which, theſe things may be Noted. (1) That when the <hi>Sixth</hi> is uſed, the <hi>Fifth</hi> muſt be left out; for, a Fifth <hi>and</hi> Sixth, <hi>muſt not ſound together in</hi> Counterpoint. (2) That the half <hi>Note</hi> under the <hi>Key,</hi> doth hardly admit an <hi>Eighth</hi> to be joyned to it, without offence to a criticall <hi>Eare;</hi> and therefore have I put two Parts into one and the ſame <hi>Third,</hi> as you ſee in the firſt <hi>Barre,</hi> ra<g ref="char:EOLhyphen"/>ther then have any Part to Sound in the <hi>Eighth</hi> to that <hi>ſharp Note</hi> in <hi>F.</hi> 3) That <hi>Baſſes</hi> conſiſting much of <hi>Notes</hi> requiring a <hi>Sixth,</hi> are more apt for few, then for many Parts. (4) That the <hi>Baſſe,</hi> in ſuch kind of <hi>Notes,</hi> doth want a <hi>Third</hi> of its full <hi>Latitude</hi> or <hi>Compaſs,</hi> as is evident in this; that if you do but remove the ſaid <hi>Notes</hi> a Third <hi>lower,</hi> the <hi>Sixths</hi> are changed into <hi>Eighths,</hi> and the other two <hi>Concords, viz. Third,</hi> and <hi>Fifth,</hi> take their accuſtomed Places, as you may ſee in the following <hi>Example.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>3 8 5 3 3 5 8 3 5 3 8 5 3 8 8 8 5 8 3 8 5 3 8 5 5 3 3 5 8 5 </p>
+               <p>And thus you ſee how <hi>Sixths</hi> may be avoided, in caſe, at any time, one de<g ref="char:EOLhyphen"/>ſire it.</p>
+               <p>Likewiſe, you may ob<g ref="char:EOLhyphen"/>ſerve, that ſeeing a <hi>Fifth,</hi> and <hi>Sixth,</hi> are never uſed toge<g ref="char:EOLhyphen"/>ther, in <hi>Counterpoint;</hi> it fol<g ref="char:EOLhyphen"/>lows conſequently, that there can be but <hi>Three</hi> ſe<g ref="char:EOLhyphen"/>verall <hi>Concords,</hi> (which, commonly are, a <hi>Third, Fifth,</hi> and <hi>Eighth</hi>) joyned, at once, to the <hi>Baſſe.</hi> And therefore, if you would Compoſe more <hi>Parts</hi> then four; (as 5, 6, 7, or 8.) it muſt be done, by redoubling theſe <hi>Concords</hi> in their <hi>Octaves;</hi> and making them paſs into different Changes, (where need requires,) to avoid the Conſecution of <hi>Fifths,</hi> or <hi>Eighths, Riſing,</hi> or <hi>Falling</hi> together.</p>
+               <p>Having given you theſe generall Notions of the <hi>Concords;</hi> I will now let you ſee</p>
+            </div>
+            <div type="subpart">
+               <pb n="15" facs="tcp:50897:13"/>
+               <head>The uſe of <hi>Diſcords.</hi>
+               </head>
+               <p>
+                  <hi>Diſcords,</hi> are two Wayes admitted into <hi>Muſick.</hi> Firſt, in <hi>Diminution:</hi> that is,<note place="margin">Uſe of <hi>Diſ<g ref="char:EOLhyphen"/>cords</hi> in <hi>Diminuti<g ref="char:EOLhyphen"/>on,</hi>
+                  </note>when 2, 3, 4. or more <hi>Notes</hi> of one <hi>Part,</hi> are ſet againſt <hi>One Note</hi> of a different <hi>Part;</hi> as thus;</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>5 4 6 5 6 5 6 5 4 3 3 4 5 6 3 4 3 4 5 6 3 4 6 5 4 5 3</p>
+               <p>Where you may perceive; that, if <hi>One Part</hi> move by degrees, whileſt the <hi>Other</hi> keeps ſtill its place; the <hi>moving Part,</hi> muſt, of neceſſity, paſſe (ſometimes) through <hi>Diſcords,</hi> as well as <hi>Concords.</hi> In which way of paſſing, a <hi>Diſcord</hi> may be allowed in any <hi>Note</hi> of the <hi>Diminution,</hi> except the <hi>Leading Note,</hi> which muſt alwayes be a <hi>Concord.</hi>
+               </p>
+               <p>The other <hi>Way,</hi> in which <hi>Diſcords,</hi> are not only allowed,<note place="margin">Uſe of <hi>Diſ<g ref="char:EOLhyphen"/>cords</hi> in <hi>Syncopati<g ref="char:EOLhyphen"/>on,</hi> or <hi>Bin<g ref="char:EOLhyphen"/>ding.</hi>
+                  </note> but of moſt excellent uſe, is in <hi>Syncopation,</hi> or <hi>Binding:</hi> that is; when a <hi>Note</hi> of <hi>One Part,</hi> ends, and breaks off, upon the <hi>middle</hi> of ſome <hi>Note</hi> of a different <hi>Part;</hi> as you may ſee in theſe <hi>Examples.</hi>
+               </p>
+               <p>
+                  <hi>Syncopation in two Parts.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>8 7 6 6 5 4 3 4 6 7 6 8 3 4 3 4 3 4 3 2 3 8 3 2 3 2323 2 3 4 6 43 8 5676 7676 76765 4 3 8 3 4 3 43238 8 7 6 5 5 3656 7 65 4 3 8</p>
+               <p>
+                  <hi>Syncopation in three Parts.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>5 6 7 6 8 5 6765 7 6 8 3 65 365 365 4 3 8 5656 5656 7 6 5 8 323 3 3 3 4 3 3 3 3 3 843 843 8438 3 33 3 434 3 4 3 8</p>
+               <pb n="16" facs="tcp:50897:14"/>
+               <p>In this way of <hi>Binding,</hi> a <hi>Diſcord</hi> may be applyed to the <hi>Firſt Part</hi> of any <hi>Note</hi> of the <hi>Baſſe;</hi> if the other <hi>Part</hi> of the <hi>Binding-Note</hi> did ſound in <hi>Concord</hi> to that which went before.</p>
+               <p>
+                  <hi>Diſcords</hi> thus admitted; we are next to conſider, how they are brought off; to render them delightfull to the <hi>Eare;</hi> for, ſimply, of themſelves, they are harſh, and diſpleaſing; and introduced into <hi>Muſick,</hi> upon the accompt of Variety; Or, by ſtriking the <hi>Senſe</hi> with a diſproportionate Sound, to beget attention to that which follows; to the hearing of which, the <hi>Eare</hi> is carried on, (as it were,) by a neceſ<g ref="char:EOLhyphen"/>ſary Expectation. This <hi>Winding</hi> or <hi>Bringing</hi> a <hi>Diſcord</hi> off, in <hi>Binding-Muſick,</hi> is al<g ref="char:EOLhyphen"/>wayes beſt effected, by changing from thence into ſome <hi>Imperfect Concord;</hi> to which,<note place="margin">How <hi>Diſ<g ref="char:EOLhyphen"/>cords</hi> are to be brought <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in <hi>Bin<g ref="char:EOLhyphen"/>ding.</hi>
+                  </note> more ſweetneſs is added by the <hi>Diſcord</hi> going before. Yet here, the <hi>Eare</hi> is not fully ſatisfied, untill, at laſt, theſe <hi>Diſcords,</hi> and their <hi>Succeeding Imperfect Concords,</hi> arrive at One more <hi>Perfect;</hi> where, as at a Period, we underſtand the Sence of that which went before.</p>
+               <p>Now; the <hi>Rule</hi> to be obſerved in paſſing from <hi>Diſcords,</hi> to <hi>Imperfects,</hi> is this; <hi>That we alwayes deflect to that which is neareſt, rather then to one more remote.</hi> Which <hi>Rule,</hi> holds good alſo, in paſſing from <hi>Imperfects</hi> to thoſe more <hi>Perfect.</hi> Thence it is, (as<note n="*" place="margin">
+                     <hi>In his</hi> Compendi<g ref="char:EOLhyphen"/>um of Mu<g ref="char:EOLhyphen"/>ſick.</note> 
+                  <hi>Des-Cartes</hi> ingeniouſly obſerves, that the <hi>greater Sixth</hi> paſſes more naturally into an <hi>Eighth:</hi> the <hi>leſſer Sixth,</hi> into a <hi>Fifth.</hi> This little remove, by a <hi>Tone,</hi> or <hi>Semitone,</hi> connects, and makes ſmooth the <hi>Aire</hi> of the <hi>Muſick,</hi> in paſ<g ref="char:EOLhyphen"/>ſing from one <hi>Concord</hi> to another, which, by a greater remove, would often ſeem disjoynted.</p>
+               <p>Here I muſt not omit a <hi>Diſcord,</hi> not yet mentioned, which is, a <hi>Tritone,</hi> or <hi>Greater Fourth;</hi> as alſo a <hi>Semidiapente,</hi> or <hi>defective Fifth;</hi> (both which are but the ſame thing in proportion of <hi>Sound,</hi> though they appear different to the <hi>Eye;</hi>) of all <hi>Diſcords,</hi>
+                  <note place="margin">
+                     <hi>A</hi> Tritone, <hi>and</hi> Semi<g ref="char:EOLhyphen"/>diapente.</note> the moſt Noble, and of moſt excellent Uſe in <hi>Muſick.</hi> For, though the common <hi>Fourth</hi> be a <hi>Conſonant</hi> by accident, inſomuch that four Voyces can<g ref="char:EOLhyphen"/>not be ioyned in <hi>Concordance,</hi> without admitting it, betwixt ſome two of the up<g ref="char:EOLhyphen"/>per <hi>Parts;</hi> yet a <hi>Greater Fourth,</hi> or <hi>Defective Fifth,</hi> hath this priviledge above it, (perhaps by its near Vicinity to a perfect Fifth,) as to be joyned, ſometimes, to the <hi>Baſſe,</hi> without <hi>Syncope,</hi> or <hi>Binding;</hi> which is not allowed to any other <hi>Diſcord.</hi> Its naturall Paſſage, when it appears as a <hi>Fourth,</hi> is, into a <hi>Sixth;</hi> and into a <hi>Third,</hi> when it appears like a <hi>Fifth</hi> in this manner.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Tritone. Semidiapente.</hi>
+               </p>
+               <p>Here take notice, that a <hi>defective Fifth,</hi> doth, naturally require a <hi>Sixth</hi> to be joyned with it; as you ſee ſet in its <hi>Example:</hi> which, perhaps, may ſeem a contradiction to what I delivered, (<hi>Page</hi> 14.) that a <hi>Fifth,</hi> and <hi>Sixth,</hi> muſt not ſound together; that is, as <hi>Concords,</hi> ſet without <hi>Binding:</hi> but here, the <hi>Fifth</hi> is ſet as a <hi>Diſcord,</hi> bound in with a <hi>Sixth,</hi> and brought off with a <hi>Third.</hi> For (as I ſaid before) there can be but three <hi>Concords</hi> poſitively joyned at once to the <hi>Baſſe:</hi> which are alwayes (except when a <hi>Sixth</hi> takes place) a <hi>Third, Fifth,</hi> and <hi>Eighth.</hi> And therefore, if a Hundred, or Hundred Thouſand Voyces ſhould be joyned together, in <hi>Muſicall Concordance;</hi> they muſt all ſound in theſe <hi>Three Concords,</hi> or in their <hi>Octaves;</hi> which is ſtill but the ſame <hi>Species.</hi>
+               </p>
+               <p>And here I cannot chooſe but wonder,<note place="margin">Reflections <hi>upon the</hi> Concords <hi>of</hi> Muſick.</note> even to amazement; that from no more then <hi>Three Concords,</hi> and a few intervening <hi>Diſcords;</hi> there ſhould proceed ſuch an infinite Variety; as all the <hi>Muſick</hi> that ever <hi>hath,</hi> or <hi>ſhall be compoſed,</hi> in <hi>Concor<g ref="char:EOLhyphen"/>dance</hi>
+                  <pb n="17" facs="tcp:50897:14"/>of <hi>diverſe Parts.</hi> This puts me upon a Conſideration of the <hi>Seven Graduall Sounds,</hi> or <hi>Tones;</hi> from whoſe various <hi>Poſitions,</hi> and <hi>Intermixtures,</hi> thoſe <hi>Concords,</hi> and <hi>Diſcords</hi> do ariſe. Theſe <hi>Graduall Sounds</hi> are diſtinguiſhed in the <hi>Scale</hi> of <hi>Mu<g ref="char:EOLhyphen"/>ſick,</hi> by the ſame <hi>Seven Letters,</hi> which in the <hi>Calender</hi> diſtinguiſh the <hi>Seven Dayes</hi> of the <hi>Week:</hi> to either of which, the adding of more, is but a rendering of the ſame again. This <hi>Myſterious Number</hi> of <hi>Seven</hi> leads me into a Contemplation of the <hi>Univerſe;</hi> Whoſe <hi>Creation</hi> is delivered unto our <hi>Capacity,</hi> not without ſome <hi>Myſtery,</hi> as begun and finiſhed in <hi>Seven Dayes.</hi> Within the Circumference where<g ref="char:EOLhyphen"/>of be <hi>Seven Great Bodies</hi> in continuall Motion (chuſe whether you will have the <hi>Sun,</hi> or <hi>Earth</hi> to be the <hi>Fixed Center</hi>) producing ſtill New and Various <hi>Figures,</hi> according to their diverſe <hi>Poſitions</hi> One to Another.</p>
+               <p>When with theſe I compare my <hi>Seven Graduall Sounds,</hi> I cannot but alſo admire the Reſemblance of Their <hi>Harmonies:</hi> the <hi>Concords</hi> of the One ſo exactly anſwering to the <hi>Aſpects</hi> of the Other; as an <hi>Uniſon,</hi> to a <hi>Conjunction;</hi> an <hi>Octave,</hi> to an <hi>Oppoſition;</hi> the <hi>Middle Conſonants</hi> in a <hi>Diapaſon,</hi> to the <hi>Middle Aſpects</hi> in an <hi>Orb;</hi> as a <hi>Third, Fifth, Sixth</hi> in <hi>Muſick,</hi> to a <hi>Trinc, Quartile, Sextile</hi> in the <hi>Zodiack.</hi> And as <hi>Theſe</hi> by moving into Such and Such <hi>Aſpects,</hi> tranſmit their <hi>Influences</hi> into <hi>Elementary Bodies;</hi> ſo <hi>Thoſe</hi> by paſſing into Such and Such <hi>Concords,</hi> Tranſmit into the <hi>Eare</hi> an <hi>Inſlu<g ref="char:EOLhyphen"/>ence</hi> of <hi>Sound,</hi> which doth not only ſtrike the <hi>Senſe,</hi> but even affects the very <hi>Soule,</hi> ſtirring it up to a devout Contemplation of that Divine <hi>PRINCIPLE,</hi> from whence all <hi>Harmony</hi> proceeds; and therefore very fitly applyed to Sing and Sound forth his Glory and Praiſe.</p>
+               <p>When I further conſider, that taking any One <hi>Sound,</hi> if you joyn thereto Ano<g ref="char:EOLhyphen"/>ther, a <hi>Third</hi> above it; and then place Another, a <hi>Third</hi> above that alſo; theſe Three thus conjoyned and Sounding together, do Conſtitute One entire <hi>Harmony,</hi> which Governs and Compriſes all the <hi>Sounds,</hi> which by Art, or Imagination, can at once be joyned together in <hi>Muſicall Concordance:</hi> This I cannot but think a <hi>Signifi<g ref="char:EOLhyphen"/>cant Embleme</hi> of that Supreme, and Incomprehenſible <hi>Three in One,</hi> Govern<g ref="char:EOLhyphen"/>ing, Compriſing, and Diſpoſing the whole Machine of the World, with all its included <hi>Parts</hi> in a Perfect <hi>Harmony.</hi>
+               </p>
+               <p>I inſiſt not upon things of common obſervation; as, that a <hi>String</hi> being Struck, the like <hi>String</hi> of Another <hi>Inſtrument</hi> Tuned in <hi>Concordance</hi> to it, ſhould alſo <hi>Sound</hi> and move; or that the <hi>Sound</hi> of a <hi>Sackbut, Trumpet,</hi> or like extended <hi>Tube,</hi> ſhould by a ſtronger emiſſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of the Breath, Skip from <hi>Concord</hi> to <hi>Concord,</hi> be<g ref="char:EOLhyphen"/>fore you can force it into any <hi>Gradation</hi> of <hi>Tones, &amp;c.</hi> What I have already men<g ref="char:EOLhyphen"/>tioned, is enough to perſwade me, that in the <hi>Harmony</hi> of <hi>Sounds,</hi> there is ſome great and hidden <hi>Myſtery</hi> above what I find delivered.</p>
+            </div>
+            <div type="subpart">
+               <pb n="18" facs="tcp:50897:15"/>
+               <head>The precedent Diſcourſe of the <hi>Concords</hi> of <hi>M<g ref="char:V">Ʋ</g>SICK,</hi> and their <hi>Analogie</hi> to the <hi>Aſpects</hi> of the <hi>Planets,</hi> Illuſtrated in the following <hi>SCHEME.</hi>
+               </head>
+               <p>
+                  <hi>WHere, you have the</hi> Seven Graduall Sounds, <hi>in their orderly Progreſſion, repreſented on the</hi> Diameter-Line. <hi>
+                     <g ref="char:V">Ʋ</g>pon which is alſo deſcribed a</hi> Diapaſon, <hi>with its included</hi> Conſo<g ref="char:EOLhyphen"/>nants; <hi>according to the</hi> Arithmeticall Diviſion <hi>thereof; as experimen<g ref="char:EOLhyphen"/>tally found upon a</hi> Monochord, <hi>or the String of any</hi> Inſtrument. <hi>The outmoſt</hi> Circle <hi>repreſents the</hi> Zodiack, <hi>and the</hi> Aſpects <hi>of the</hi> Planets; <hi>to which you ſee the</hi> Diapaſon, <hi>with its</hi> Interſections, <hi>exactly agreeing; as,</hi> viz. <hi>the two</hi> Terms <hi>thereof, to a</hi> Conjunction, <hi>and</hi> Oppoſition. <hi>The</hi> Middle Section (<hi>which generates a</hi> 5<hi rend="sup">th.</hi> 
+                  <hi>on One ſide, and a</hi> 4<hi rend="sup">th.</hi> 
+                  <hi>on the Other</hi>) <hi>to <g ref="char:quadrine">□</g>. A</hi> 3<hi rend="sup">d.</hi> 
+                  <hi>and a</hi> 6<hi rend="sup">th.</hi> 
+                  <hi>compleating alſo the</hi> Compaſs <hi>of an</hi> Octave; <hi>as a <g ref="char:trine">△</g>, and ⚹, do a</hi> Semicircle; <hi>or the two oppoſite Points in an</hi> Orbe. <hi>To which may be added, that a</hi> Diapaſon, <hi>conſiſting of</hi> Twelve Semitones; <hi>doth alſo anſwer the</hi> Zodiack, <hi>divided into</hi> Twelve Signes.</p>
+               <p>
+                  <hi>The other</hi> Figure <hi>ſhews, that all the Sounds, that can poſſibly be joyned, at once, together, in</hi> Muſicall Concordance; <hi>are ſtill but the Re<g ref="char:EOLhyphen"/>iterated</hi> Harmony <hi>of</hi> Three.</p>
+               <p>I could be glad, if theſe my <hi>Reflections</hi> upon the <hi>Concords</hi> of <hi>Mu<g ref="char:EOLhyphen"/>ſick,</hi> might occaſion a deeper ſearch into the <hi>Theory</hi> and <hi>Myſtery</hi> of <hi>Sounds.</hi> However; let me commend unto you (if you be not ver<g ref="char:EOLhyphen"/>ſed therein already) the Practicall uſe of the ſaid <hi>Concords,</hi> in joyn<g ref="char:EOLhyphen"/>ing <hi>Parts</hi> together, according to the <hi>Inſtructions</hi> I have given; by which means, you will become more perfect in the <hi>Scale,</hi> more knowing in <hi>Compoſition,</hi> and conſequently more capable of that which follows in the <hi>Second Part.</hi>
+               </p>
+               <pb facs="tcp:50897:15"/>
+               <figure>
+                  <p>Tria sunt omnia</p>
+                  <p>Benedicta sit ſancta et individus Trinitas</p>
+               </figure>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:50897:16"/>
+            <pb n="21" facs="tcp:50897:16"/>
+            <head>Part. II. THE DIVISION-VIOLIST: OR <hi>An</hi> Introduction <hi>to the Playing upon a</hi> Ground.</head>
+            <div type="subpart">
+               <head>Of <hi>Diviſion</hi> to a <hi>Ground,</hi> and the Manner of performing it.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">D</seg>Iminution,</hi> or <hi>Diviſion</hi> to a <hi>Ground,</hi> is the <hi>Concordance</hi> of <hi>quick</hi> and <hi>ſlow Notes.</hi> The manner of expreſſing it is thus. A <hi>Ground, Subject,</hi> or <hi>Baſſe,</hi> (call it which you pleaſe,) is prickt down in two <hi>ſeve<g ref="char:EOLhyphen"/>rall Papers: One,</hi> for him who is to Play the <hi>Ground</hi> (upon an <hi>Or<g ref="char:EOLhyphen"/>gan, Harpſecord,</hi> or what other <hi>Inſtrument</hi> may be apt for that pur<g ref="char:EOLhyphen"/>poſe;) <hi>the Other,</hi> for him who Playes upon the <hi>Viol:</hi> who, ha<g ref="char:EOLhyphen"/>ving the ſaid <hi>Ground</hi> before his <hi>Eye;</hi> (as his <hi>Theme,</hi> or <hi>Subject;</hi>) Playes ſuch va<g ref="char:EOLhyphen"/>riety of <hi>Deſcant,</hi> and <hi>Diviſion,</hi> thereupon; as his <hi>Skill,</hi> and <hi>preſent Invention,</hi> do then ſuggeſt unto him. In this <hi>Manner</hi> of <hi>Play,</hi> (which is the Perfection of the <hi>Viol,</hi> or any other <hi>Inſtrument;</hi> if it be exactly performed;) a Man may ſhew, the dexterity, and excellency, both, of his <hi>Hand,</hi> and <hi>Invention;</hi> to the <hi>Delight,</hi> and <hi>Admiration,</hi> of thoſe that hear him.</p>
+               <p>But this, you will ſay, is a <hi>Perfection,</hi> which few attain unto; depending, upon the <hi>quickneſs of Invention,</hi> as well as <hi>quickneſs of Hand.</hi> I anſwer; it is a Perfecti<g ref="char:EOLhyphen"/>on, which ſome excellent <hi>Hands,</hi> have not attained unto; as wanting thoſe Helps which ſhould lead them to it: The ſupply of which want, is the buſineſs we here endevour. True it is, that Invention is a guift of Nature: but much improved by Exerciſe, and Practice. He, that hath it not, in ſo high a Meaſure, as to Play <hi>Extempore to a Ground;</hi> may, notwithſtanding, give both himſelf, and hea<g ref="char:EOLhyphen"/>rers, ſufficient ſatisfaction, in Playing ſuch <hi>Diviſions,</hi> as Himſelf, or Others, have made for that purpoſe. In the performance whereof, he may deſerve the Name of an Excellent Artiſt. For here, the Excellency of Hand, may be ſhewed, as well, as in the Other; and the <hi>Muſick,</hi> perhaps better; though leſſe to be admi<g ref="char:EOLhyphen"/>red, as being more ſtudied. But to our matter in hand.</p>
+               <p>The <hi>Inſtrument</hi> we here propoſe, is the <hi>Baſſe-Viol,</hi> accomodated as mentioned (<hi>Page</hi> 1.) The Compaſſe whereof, extends, from a <hi>Fourth,</hi> or <hi>Fifth</hi> below <hi>Gam<g ref="char:EOLhyphen"/>ut,</hi> to as much above <hi>Ela.</hi> In <hi>Playing</hi> to a <hi>Ground,</hi> we exerciſe this whole Com<g ref="char:EOLhyphen"/>paſs; acting therein, ſometimes a <hi>Baſſe;</hi> ſometimes a <hi>Treble,</hi> or ſome other <hi>Part.</hi> From hence proceed Two <hi>Kinds</hi> of <hi>Diviſion. Viz.</hi>
+                  <note n="*" place="margin">Three ſorts of <hi>Diviſion</hi> expreſſed on the <hi>Vi<g ref="char:EOLhyphen"/>ol. viz.</hi> Breaking the <hi>Ground</hi> Deſcan<g ref="char:EOLhyphen"/>ting upon it, and Mixture of theſe together. What Breaking the <hi>Ground</hi> is. Five wayes of Breaking a <hi>Note.</hi>
+                  </note> A <hi>Breaking the Ground,</hi> and a <hi>Deſcanting upon it.</hi> Out of which Two; is generated a <hi>Third Sort</hi> of <hi>Diviſion:</hi> to wit, <hi>a Mixture of thoſe One with the Other;</hi> which <hi>Third,</hi> or laſt <hi>Sort,</hi> is expreſſed, in a two fold manner: that is; either in <hi>ſingle,</hi> or in <hi>double Notes.</hi>
+               </p>
+               <p>Theſe ſeverall <hi>ſorts</hi> of <hi>Diviſion,</hi> are uſed upon the <hi>Baſſe-Viol,</hi> very promiſcuouſ<g ref="char:EOLhyphen"/>ly: according to the Fancy of the <hi>Player,</hi> or <hi>Compoſer:</hi> howbeit, for Order, and Method's ſake, I muſt diſcourſe of them ſeverally: and will begin with that</p>
+            </div>
+            <div type="subpart">
+               <head>Of Breaking the Ground.</head>
+               <p>
+                  <hi>Breaking the Ground,</hi> is the <hi>dividing its Notes into more diminute Notes:</hi> As for <hi>Example;</hi> a <hi>Semibreve</hi> may be broken, into Two <hi>Minims,</hi> Four <hi>Crochets,</hi> Eight <hi>Quavers,</hi> Sixteen <hi>Semiquavers, &amp;c.</hi> This <hi>Breaking,</hi> or <hi>Dividing</hi> a <hi>Note,</hi> admits <hi>Diverſe</hi> Wayes of expreſſion: according to the diverſe ordering, and diſpoſing, the Minute Parts thereof, as</p>
+               <p>Firſt;<note place="margin">Firſt way.</note> when there is made no Variation of Sound; by reaſon of the <hi>Minutes</hi> ſtanding ſtill in the ſame <hi>Place;</hi> or Removing into the <hi>Octave,</hi> which I accompt but the ſame Sound; as you ſee in breaking this <hi>Semibreve.</hi>
+               </p>
+               <pb n="22" facs="tcp:50897:17"/>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>Secondly;<note place="margin">Second way.</note> when the <hi>Sound</hi> is varied, and yet the <hi>Ayre</hi> retained; either by a quick return, or keeping near, to the place of the <hi>Note</hi> divided; as thus,</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>Thirdly,<note place="margin">Third way.</note> when thoſe <hi>Minutes,</hi> are imployed, in making a Tranſition to the en<g ref="char:EOLhyphen"/>ſuing <hi>Note;</hi> commonly called the <hi>Breaking one Note to another:</hi> as you ſee in theſe following <hi>Examples;</hi> where <hi>Notes</hi> are <hi>broken,</hi> to all the ſeverall diſtances in an <hi>Octave;</hi> both aſcending, and deſcending.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Third Fourth Fifth Sixth Seventh Eighth Second Third Fourth Fifth Sixth Seventh Eighth Second Third Fourth Fifth Sixth Seventh Eighth Deſcending Second Third Fourth Fifth Sixth Seventh Eighth</hi>
+               </p>
+               <pb n="23" facs="tcp:50897:17"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>I have ſet ſome of theſe</hi> Examples, <hi>in higher</hi> Clifts; <hi>becauſe, this breaking a</hi> Note, <hi>by way of</hi> Tranſition, <hi>holds good, in higher</hi> Parts, <hi>as well, as in the</hi> Baſſe.</p>
+               <p>Fourthly; when the <hi>Minutes,</hi> into which a <hi>Note</hi> is broken, are imployed,<note place="margin">Fourth way.</note> in Skipping from <hi>One Concord</hi> to <hi>Another;</hi> as you ſee in breaking theſe four <hi>Semi<g ref="char:EOLhyphen"/>breves.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>853 468 8 5 6 3 5 8 5 3 468 8 5 3</p>
+               <p>Fifthly; when the ſaid <hi>Minutes,</hi>
+                  <note place="margin">Fifth way.</note> make a <hi>Graduall Tranſition</hi> into ſome of the <hi>Concords;</hi> (<hi>which is effected, by making</hi> 3, 4. <hi>or more of them, aſcend to the ſaid</hi> Concord, <hi>by degrees;</hi>) returning from thence, either, to end in the <hi>Sound</hi> of the<note n="*" place="margin">Holding-Note, Standing-Note, Ground-Note, <hi>and</hi> Note <hi>divi<g ref="char:EOLhyphen"/>ded are the ſame.</hi>
+                  </note>
+                  <hi>Holding-Note,</hi> or elſe, paſſing on to meet the <hi>Note</hi> following. And though this <hi>moving</hi> into the <hi>Concords,</hi> be the very ſame with <hi>Deſcant-Diviſion,</hi> ſo long as it is in that Motion; yet, in regard of its returning, either to its <hi>Own Note,</hi> or to meet the Next <hi>Note,</hi> in Nature of a <hi>Baſſe,</hi> we muſt <hi>here</hi> rank it under the <hi>Name,</hi> and <hi>Notion</hi> of Breaking the <hi>Ground.</hi> The manner of it you may ſee in theſe <hi>Inſtan<g ref="char:EOLhyphen"/>ces.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Theſe paſs up to the 3.<hi rend="sup">d</hi> Theſe to the 5.<hi rend="sup">th</hi> Theſe to the 8. <hi rend="sup">th</hi> Theſe to a 3.<hi rend="sup">d</hi> higher Theſe to a 5.<hi rend="sup">th</hi> higher. Theſe to a 3.<hi rend="sup">d</hi> Theſe to a 5.<hi rend="sup">th</hi> Theſe to an 8.<hi rend="sup">th</hi> Theſe to a 3.<hi rend="sup">d</hi> higher Theſe paſs to the 4.<hi rend="sup">th</hi> below Theſe to a 6.<hi rend="sup">th</hi> below Theſe to the 8.<hi rend="sup">th</hi> below Theſe into Concords both above and below.</hi>
+               </p>
+               <pb n="24" facs="tcp:50897:18"/>
+               <p>In this Fifth, and Laſt way of Breaking a <hi>Note,</hi> conſiſteth the chief Myſtery of <hi>Playing,</hi> or <hi>Making Diviſion</hi> to a <hi>Ground:</hi> which may be referred to theſe two Heads. (1) That it be Harmonious to the <hi>Holding Note.</hi> (2) And, that it come off ſo, as to Meet the beginning of the <hi>Next Note,</hi> in a ſmooth and naturall Paſ<g ref="char:EOLhyphen"/>ſage. How it is made Harmonious to the <hi>Holding Note,</hi>
+                  <note place="margin">How <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> is made har<g ref="char:EOLhyphen"/>monious to the <hi>Hol<g ref="char:EOLhyphen"/>ding-Note</hi> of the <hi>Ground.</hi>
+                  </note> was ſhewed in the prece<g ref="char:EOLhyphen"/>dent <hi>Example:</hi> to wit; by Paſſing into its <hi>Concords.</hi> True it is, that <hi>Diviſion</hi> doth ſometime paſs into a <hi>Diſcord,</hi> as the proper place deſigned; as you ſee in theſe two <hi>Inſtances:</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>This paſses into a 4.<hi rend="sup">th</hi> This into a 7.<hi rend="sup">th</hi>
+                  </hi>
+               </p>
+               <p>But, this is done, upon the ſame accompt, that the very ſame <hi>Diſcords</hi> are uſed in other <hi>Compoſition.</hi>
+               </p>
+               <p>As for <hi>bringing</hi> the <hi>Diviſion</hi> off,<note place="margin">How <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> is brought off to Meet the next <hi>Note</hi> of the <hi>Ground.</hi>
+                  </note> to Meet the beginning of the <hi>Next Note,</hi> it is done much after the ſame Manner, as paſſing into <hi>Concords:</hi> that is to ſay; by making the laſt Three <hi>Minute Notes</hi> (at leaſt two of them) aſcend, or deſcend, by degrees, unto the ſaid <hi>Next Note,</hi> as you ſee here following, where the <hi>Semibreve</hi> in <hi>G,</hi> is broken to every diſtance in an <hi>Octave.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>As thus or thus Thus or thus Thus or thus Thus or thus &amp;c.</hi> 
+               </p>
+               <pb n="25" facs="tcp:50897:18"/>
+               <p>This holds good, be the <hi>Diviſion</hi> Quicker, or Slower; only that in quick <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> more of the <hi>Minute-Notes</hi> will offer themſelves in making this <hi>Graduall Tranſiti<g ref="char:EOLhyphen"/>on</hi> unto the ſucceeding <hi>Note,</hi> as you may obſerve in the <hi>Semiquavers</hi> of the prece<g ref="char:EOLhyphen"/>dent <hi>Inſtances.</hi>
+               </p>
+               <p>Now; ſuppoſe this <hi>Tranſition,</hi> which is made by Two, Three, or more <hi>Notes,</hi> ſhould in ſtead of the <hi>Uniſon,</hi> meet the Next <hi>Note</hi> of the <hi>Ground</hi> in a <hi>Third,</hi> or <hi>Fifth,</hi> above; by which means it is changed into <hi>Deſcant-Diviſion;</hi> it is ſtill but the ſame thing, <hi>(quatenus Diviſion to a Ground<g ref="char:punc">▪</g>
+                  </hi>) and therefore left to your liberty to uſe <hi>This,</hi> or <hi>That,</hi> as there ſhall be occaſion.</p>
+               <p>By this which hath been ſhewed, I ſuppoſe you ſee what belongs to <hi>Breaking</hi> a <hi>Note;</hi> but this requires not only a <hi>Notion,</hi> but <hi>Habit</hi> alſo; which muſt be got by <hi>Practiſe.</hi> VVherefore, I would have you prick down ſome eaſie <hi>Ground;</hi> and break each <hi>Note</hi> to other, according to what hath been delivered: To the better effecting whereof; I will ſet you an <hi>Example,</hi> with which take theſe <hi>Advertiſe<g ref="char:EOLhyphen"/>ments.</hi>
+               </p>
+               <p>Firſt; that your <hi>Diviſion</hi> be naturall to the <hi>Key</hi> of your <hi>Ground,</hi> in relation to <hi>Flatts</hi> and <hi>Sharps.</hi>
+               </p>
+               <p>Secondly; you are to conſider that a <hi>Seventh,</hi> or <hi>Sixth,</hi> Falling, is but the ſame with a <hi>Second,</hi> or <hi>Third,</hi> Riſing; and ſo all other <hi>Diſtances</hi> the ſame with their <hi>Oppoſite Octaves;</hi> thus exemplified.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>2d. 3<hi rend="sup">d.</hi> 4<hi rend="sup">th.</hi> 5<hi rend="sup">th.</hi> 6<hi rend="sup">th.</hi> 7<hi rend="sup">th.</hi> 8<hi rend="sup">th.</hi> 7<hi rend="sup">th.</hi> 6<hi rend="sup">th.</hi> 5<hi rend="sup">th.</hi> 4<hi rend="sup">th.</hi> 3<hi rend="sup">d.</hi> 2 <hi rend="sup">d.</hi> 8<hi rend="sup">th.</hi>
+               </p>
+               <p>Whence it followes; that you may chooſe, whether you will meet any <hi>ſuc<g ref="char:EOLhyphen"/>ceeding Note</hi> of the <hi>Ground,</hi> in the <hi>Uniſon,</hi> or in the <hi>Octave;</hi> either <hi>above,</hi> or <hi>be<g ref="char:EOLhyphen"/>low</hi> it: for, <hi>de octavis eadem eſt ratio.</hi>
+               </p>
+               <p>Thirdly; in ſuch places, as the <hi>Ground</hi> doth intimate a <hi>Cadence,</hi> by<note n="*" place="margin">
+                     <hi>Vide</hi> Page 13.</note> Falling a 5<hi rend="sup">th.</hi> or Riſing a 4<hi rend="sup">th.</hi> all the <hi>Notes</hi> that hitt upon the 3<hi rend="sup">d.</hi> 
+                  <hi>above,</hi> or 6<hi rend="sup">th.</hi> 
+                  <hi>below,</hi> muſt be Played <hi>ſharp.</hi>
+               </p>
+               <p>Laſtly; as your <hi>Diviſion</hi> paſſes into the 3<hi rend="sup">d</hi>. and 5<hi rend="sup">th.</hi> whilſt it moveth <hi>above;</hi>
+                  <note place="margin">How <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> is to move be<g ref="char:EOLhyphen"/>low the <hi>Ground-Note.</hi>
+                  </note> (by which means it is made Conſonant to the <hi>Ground-Note;</hi>) ſo; in moving <hi>beneath,</hi> it muſt paſs into the <hi>under Octaves</hi> of the ſaid <hi>Concords; viz.</hi> into the 4<hi rend="sup">th.</hi> and 6<hi rend="sup">th.</hi> 
+                  <hi>below</hi> the <hi>ſtanding Note.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>5 3 5 5 3 5 5 3 5 4 6 4 4 6 4 46 4</p>
+               <p>Theſe things being known; you may Break your <hi>Ground,</hi> in ſuch manner as follows: where, you have the <hi>Diviſion</hi> placed over the <hi>Ground;</hi> that you may bet<g ref="char:EOLhyphen"/>ter obſerve the Breaking of each <hi>Note.</hi>
+               </p>
+               <pb n="26" facs="tcp:50897:19"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example of Breaking the Ground</hi>
+               </p>
+               <pb n="27" facs="tcp:50897:19"/>
+               <p>Here you ſee every <hi>Note</hi> of the <hi>Ground,</hi> Broken, ſtill, according to ſome <hi>One,</hi> or <hi>Other,</hi> of thoſe <hi>five wayes</hi> before mentioned; (as, indeed, no <hi>Note</hi> can be <hi>bro<g ref="char:EOLhyphen"/>ken,</hi> but muſt relate to ſome of them,) onely, in <hi>one place,</hi> I have made the <hi>Diviſion,</hi> meet the <hi>Ground-Note</hi> in the 3<hi rend="sup">d.</hi> in <hi>another place;</hi> in the 5<hi rend="sup">th.</hi> both which are marked out unto you, for your imitation; when the Point, or any other con<g ref="char:EOLhyphen"/>venience, ſhall invite you thereunto.</p>
+               <p>Some other things there are, which offer themſelves to obſervation in this <hi>Ex<g ref="char:EOLhyphen"/>ample.</hi> One is; concerning the <hi>Second below,</hi> and <hi>Seventh above,</hi> the <hi>Divided-Note,</hi>
+                  <note place="margin">
+                     <hi>An Obſer<g ref="char:EOLhyphen"/>vation for Playing</hi> Flatt, <hi>or</hi> Sharp, <hi>in the</hi> Se<g ref="char:EOLhyphen"/>venth a<g ref="char:EOLhyphen"/>bove, <hi>or</hi> Second be<g ref="char:EOLhyphen"/>low <hi>the</hi> Standing-Note.</note>which you ſee, ſometimes <hi>Flatt,</hi> and ſometimes <hi>Sharp.</hi> Although it be hard to determine, what a <hi>Compoſer</hi> may Approve, or Diſapprove, in divers Caſes con<g ref="char:EOLhyphen"/>cerning <hi>Flatts,</hi> and <hi>Sharps,</hi> (in which doubts, the <hi>Eare</hi> muſt be chief Umpire;) yet, in This Particular, ſomething, I think, may be delivered, by way of Rule: which is; that if we <hi>deſcend</hi> a <hi>Second,</hi> and <hi>immediately aſcend</hi> to the place of the former <hi>Note;</hi> the <hi>ſecond</hi> muſt be <hi>ſharp,</hi> (The ſame is underſtood of the 7<hi rend="sup">th.</hi> 
+                  <hi>above,</hi> in reference to the 8<hi rend="sup">th.</hi>) as you ſee in Breaking this <hi>Semibreve</hi> in <hi>D.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>Here, if you conſult your <hi>Eare,</hi> you will find, that <hi>C,</hi> Naturally, requires a <hi>Sharp,</hi> when the next <hi>Note</hi> immediately <hi>aſcends</hi> again to <hi>D.</hi> But in the Second Inſtance, where the Next <hi>Note</hi> doth not ſo <hi>aſcend,</hi> no <hi>Sharp</hi> is required.</p>
+               <p>This <hi>Rule</hi> of <hi>Sharp,</hi> in caſe of <hi>aſcending,</hi> admits yet ſome <hi>Exceptions.</hi> Firſt; if the <hi>Ground</hi> do ſuddainly <hi>Riſe,</hi> or <hi>Fall,</hi> to a <hi>flatt ſecond.</hi> Secondly; if it <hi>fall</hi> a 3<hi rend="sup">d.</hi> Laſtly; if it <hi>riſe</hi> a 4<hi rend="sup">th.</hi>or <hi>fall</hi> a 5<hi rend="sup">th.</hi> in nature of a <hi>Cadence;</hi> in Theſe Caſes, though the <hi>Diviſion riſe again,</hi> to the place of the <hi>former Note, no Sharp</hi> is to be added; as thus,</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>Another thing to be noted, is concerning a <hi>Cadence;</hi> which (as I have ſaid) is intimated, when the <hi>Baſs falls</hi> a 5<hi rend="sup">th.</hi> or <hi>riſes</hi> a 4<hi rend="sup">th.</hi> But we muſt put a difference betwixt a <hi>Cadence,</hi> at a <hi>Cloſe,</hi> and in <hi>Other</hi> places of the <hi>Ground.</hi>
+                  <note place="margin">How to break a <hi>Cadent-Note</hi> at a <hi>finall Cloſe,</hi> and how <hi>elſe<g ref="char:EOLhyphen"/>where.</hi>
+                  </note> It the <hi>Baſſe falls</hi> a 5<hi rend="sup">th.</hi> at, or near the beginning of your <hi>Ground;</hi> or in any <hi>Other</hi> place where a <hi>Cloſe</hi> is not ſignified; you may Break the <hi>antecedent-Note,</hi> either in Tranſition, by degrees, or in what manner pou pleaſe: But, at a <hi>Cloſe,</hi> I would alwayes have the <hi>Diviſion</hi> of the ſaid <hi>Note</hi> to end in its own Sound, and, from thence, Break off into the <hi>Cloſe-Note:</hi> retaining ſtill the diſtance, of <hi>riſing</hi> a 4<hi rend="sup">th.</hi> or <hi>falling</hi> a 5<hi rend="sup">th.</hi> as you did ſee in the Concluſion of each Strain of the Precedent <hi>Example.</hi>
+               </p>
+               <p>And here I cannot but take notice of an <hi>Error</hi> which I have obſerved in ſome, reputed excellent <hi>Violiſts,</hi> who in Playing a <hi>Conſort-Baſſe,</hi> would ſometimes at the <hi>very Cloſe,</hi> run down by <hi>degrees</hi> to the <hi>concluding Note,</hi> which is very improper; for if any <hi>Upper Part</hi> do Fall from a 5<hi rend="sup">th.</hi> to an 8<hi rend="sup">th.</hi> (a thing moſt frequent) the <hi>Baſſe</hi> by ſuch a deſcent in degrees, doth make two 8<hi rend="sup">ths.</hi> to the ſaid Part, as in this Inſtance.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>5 8 5 88 5 88 5 88</p>
+               <pb n="28" facs="tcp:50897:20"/>
+               <p>Although this <hi>running down by degrees,</hi> ſeem worſe in Playing a <hi>Conſort Baſſe,</hi> then in a <hi>Diviſion</hi> to a <hi>Ground;</hi> yet, in This alſo, it doth not want its bad Con<g ref="char:EOLhyphen"/>ſequence: the <hi>Organiſt</hi> commonly joyning ſuch Parts unto his <hi>Ground,</hi> as the <hi>Com<g ref="char:EOLhyphen"/>poſer</hi> doth unto his <hi>Baſſe.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>Of <hi>Deſcant-Diviſion,</hi> and how it differs from Breaking the <hi>Ground.</hi>
+               </head>
+               <p>
+                  <hi>Deſcant-Diminution,</hi> or <hi>Diviſion, is That, which maketh another diſtinct, and con<g ref="char:EOLhyphen"/>cording Part unto the Ground.</hi> It differs from the Former, in Theſe Particulars. <hi>That, breaks</hi> the <hi>Notes</hi> of the <hi>Ground; This, deſcants</hi> upon them. <hi>That,</hi> takes the liberty to wander ſometimes <hi>beneath</hi> the <hi>Ground: This,</hi> (as in its proper Sphere) moves ſtill <hi>above</hi> it. <hi>That,</hi> meets every <hi>ſucceeding Note</hi> of the <hi>Ground,</hi> in the <hi>Uni<g ref="char:EOLhyphen"/>ſon,</hi> or <hi>Octave: This,</hi> in <hi>any</hi> of the <hi>Concords.</hi> But in the main buſineſs of <hi>Diviſi<g ref="char:EOLhyphen"/>on</hi> they are much the ſame; for <hi>All</hi> Diviſion, <hi>whether</hi> Deſcant, <hi>or</hi> Breaking <hi>the</hi> Baſſe, <hi>is but a</hi> Tranſition, <hi>from</hi> Note, <hi>to</hi> Note; <hi>or from</hi> Concord, <hi>to</hi> Concord; <hi>either by</hi> Degrees, <hi>or</hi> Leaps; <hi>with an intermixture of ſuch</hi> Diſcords, <hi>as are allowed in other</hi> Compoſition.</p>
+               <p>The <hi>Lawes,</hi> or <hi>Rules,</hi> to be obſerved in <hi>Deſcant-Diviſion,</hi> are the ſame with <hi>Singing,</hi> or making <hi>Deſcant</hi> to a <hi>Baſſe Plain-ſong:</hi> or thoſe I gave you, in joyning another Part to a <hi>Baſſe,</hi> or <hi>Ground.</hi> That is to ſay; you may begin, with a 3<hi rend="sup">d.</hi> 5<hi rend="sup">th.</hi> or 8<hi rend="sup">th.</hi> to the <hi>Ground-Note,</hi> Paſſing On, to meet the Next <hi>Note</hi> alſo, in a 3<hi rend="sup">d.</hi> 5<hi rend="sup">th.</hi> or 8<hi rend="sup">th.</hi> and ſo, from <hi>Note,</hi> to <hi>Note;</hi> alwayes provided that you avoid the <hi>Conſecution</hi> of <hi>Two</hi> 5<hi rend="sup">ts.</hi> or <hi>Two</hi> 8<hi rend="sup">ts.</hi> One after Another.</p>
+               <p>Now; for the Manner of this Paſſage, from <hi>Note,</hi> to <hi>Note,</hi> we muſt have re<g ref="char:EOLhyphen"/>courſe again to the five wayes of Breaking a <hi>Note,</hi> mentioned, <hi>Page</hi> 21. which are of the ſame uſe in <hi>Deſcant,</hi> as in <hi>Breaking</hi> the <hi>Baſſe.</hi> For Here, as in the Other, a <hi>Note</hi> is ſometimes <hi>Broken,</hi> without Variation of Sound; according to the firſt way. Sometimes Varying the Sound, and retaining the <hi>Aire;</hi> as in the Second way: Sometimes (again) by making a <hi>Tranſition</hi> unto that <hi>Concord,</hi> in which you intend to Meet the Next <hi>Note</hi> of the <hi>Ground;</hi> in ſuch <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ner, as you made it to the <hi>Note</hi> it ſelf; according to the Third way: <hi>viz.</hi> by making 2, 3. or <hi>more</hi> of the Minutes <hi>aſcend,</hi> or <hi>deſcend</hi> unto it, by degrees. Laſtly, your <hi>Diviſion</hi> may paſs in<g ref="char:EOLhyphen"/>to the <hi>Ground-Note</hi>'s <hi>Concords,</hi> either by <hi>Leaps,</hi> according to the Fourth way; or by <hi>Degrees,</hi> like the Fifth way, (which as I ſaid (<hi>Page</hi> 23.) is <hi>Deſcant,</hi> ſo long as it continues in That Motion) and from thence, Return to the place where it begun, or elſe Paſs On, to Meet the Next <hi>Note</hi> of the <hi>Ground</hi> in ſome of the <hi>Concords;</hi> according to the Nature of <hi>Deſcant.</hi> Theſe ſeverall wayes of Breaking a <hi>Note,</hi> are leſt to your Liberty, to uſe This, or That, as there ſhall be occaſion.</p>
+               <p>A <hi>Diſcord,</hi> (<hi>viz.</hi> a <hi>Second, Fourth, Seventh,</hi> or their <hi>Octaves</hi>) is never to be uſed, to the beginning of the <hi>Ground-Note,</hi> unleſſe in the way of <hi>Syncope,</hi> or <hi>Bin<g ref="char:EOLhyphen"/>ding<g ref="char:punc">▪</g>
+                  </hi> as hath been ſhewed.</p>
+               <p>A Sixth, is ſeldome uſed as the <hi>Leading-Note</hi> of the <hi>Diviſion,</hi> to any <hi>Note</hi> of the <hi>Ground,</hi>
+                  <note place="margin">Concer<g ref="char:EOLhyphen"/>ning a Sixth.</note> unleſs in <hi>binding;</hi> or, to ſuch <hi>Notes</hi> of the <hi>Ground</hi> as require a Sixth to be joyned to them, in place of the 5<hi rend="sup">th.</hi> What <hi>Notes</hi> thoſe are, was partly ſhewed, <hi>Page</hi> 13. to wit; ſuch, under which we ſuppoſe the Sound of a 3<hi rend="sup">d.</hi> to make up the full Latitude, or Compaſs of the <hi>Baſſe:</hi> not only <hi>ſharp Notes,</hi> as there mentioned, which require the Leſſer 6<hi rend="sup">th.</hi> but ſometimes alſo <hi>flatt Notes,</hi> requiring the Greater 6<hi rend="sup">th.</hi> as you ſee in the <hi>Middle Barre</hi> of this <hi>Example;</hi> in which the <hi>black Notes</hi> expreſs the full Compaſs of the <hi>Baſſe.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>6 6 6 6 6 6</p>
+               <pb n="29" facs="tcp:50897:20"/>
+               <p>Now, if you do but break this <hi>Ground</hi> according to the black <hi>Notes,</hi> you will find that your <hi>Diviſion</hi> doth, of it ſelf, produce 6<hi rend="sup">ths.</hi> to thoſe <hi>Notes</hi> which ſtand a 3<hi rend="sup">d.</hi> higher, as thus:</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>6 6 6</p>
+               <p>And here you may perceive a reaſon, why ſuch <hi>Notes</hi> affect a 6<hi rend="sup">th.</hi> more then a 5<hi rend="sup">th.</hi> becauſe a 5<hi rend="sup">th.</hi> would be a <hi>Diſcord</hi> to the 3<hi rend="sup">d.</hi> 
+                  <hi>below;</hi> which, (as I have ſhewed) is the Naturall Compaſs of the <hi>Baſſe.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>
+                  <hi>Of</hi> Mixt Diviſion.</head>
+               <p>
+                  <hi>Mixt-Diviſion,</hi> I call That, which mixeth <hi>Deſcant,</hi> and <hi>Breaking</hi> the <hi>Ground,</hi>
+                  <note place="margin">
+                     <hi>What</hi> Mixt-Di<g ref="char:EOLhyphen"/>viſion <hi>is.</hi>
+                  </note>One with the Other; under which Terme I comprehend all <hi>Diviſion,</hi> which pre<g ref="char:EOLhyphen"/>ſents unto our <hi>Eares,</hi> the Sounds of <hi>two,</hi> or <hi>more</hi> Parts moving together; which is expreſſed, either in <hi>Single-Notes,</hi> by hitting firſt upon one <hi>Part,</hi> and then upon <hi>Another;</hi> or in <hi>Double-Notes,</hi> by touching Two, or More Strings at once with the <hi>Bow.</hi> This; as it is more excellent then the ſingle wayes of <hi>Breaking</hi> the <hi>Ground,</hi> or <hi>Deſcanting</hi> upon it; ſo it is more intricate; and requires ſomething more of Skill, and Judgement, in Compoſition; by reaſon of certain Bindings, and Inter<g ref="char:EOLhyphen"/>mixtures of <hi>Diſcords,</hi> which are as frequent in This, as in Other <hi>Figurate Mu<g ref="char:EOLhyphen"/>ſick.</hi>
+               </p>
+               <p>I will now give you <hi>Examples</hi> of This, and <hi>Deſcant-Diviſion:</hi> not inſiſting upon the ſeverall diſtances in an <hi>Octave,</hi> (now leſs needfull,) but upon ſuch Paſſages as offer themſelves moſt remarkable in <hi>Grounds;</hi> ſuch are <hi>Cadences.</hi> And theſe, (how numerous ſoever they ſeem to be) are, in effect, but Two; that is to ſay,<note place="margin">
+                     <hi>Cadances</hi> of two ſorts.</note> ei<g ref="char:EOLhyphen"/>ther a 7<hi rend="sup">th.</hi> 
+                  <hi>brought off with a</hi> 6<hi rend="sup">th.</hi> after which the <hi>Baſſe</hi> falls a <hi>Tone,</hi> or <hi>Semitone;</hi> or elſe a 4<hi rend="sup">th.</hi> 
+                  <hi>brought off with a</hi> 3<hi rend="sup">d.</hi> after which the <hi>Baſſe</hi> commonly falls a 5<hi rend="sup">th.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>7 6 7 6 4 3 4 3 4 3</p>
+               <p>Your firſt <hi>Example</hi> ſhall be upon the Firſt <hi>Cadence,</hi> and <hi>Notes</hi> Leading to it; in which, you ſhall have, Firſt; the <hi>Ground</hi> broken; Then; <hi>Deſcant;</hi> and Laſtly; <hi>Mixt Diviſion,</hi> both in Single, and in Double <hi>Notes;</hi> by which means, you may better diſcern how they differ, One from Another.</p>
+               <pb n="30" facs="tcp:50897:21"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Example upon the first ſort of Cadence. Ground broken Deſcant Mixt Mixt</hi>
+               </p>
+               <p>Here note; that in Playing to a <hi>Ground,</hi> we ſometime (for Humour, or Vari<g ref="char:EOLhyphen"/>ety) hold out one <hi>Note</hi> of <hi>Deſcant,</hi> to Two or Three <hi>Notes</hi> of the <hi>Ground,</hi> (ſuch as will bear it) as you ſee in the firſt <hi>Variation</hi> of <hi>Deſcant,</hi> in this <hi>Example;</hi> where you may alſo behold a 7<hi rend="sup">th.</hi> brought off with a 6<hi rend="sup">th.</hi> which paſſeth immediately into its<note n="*" place="margin">Vide Page <hi>16.</hi>
+                  </note> deſired 8<hi rend="sup">th.</hi> In the other <hi>Variations</hi> of <hi>Deſcant</hi> you have This <hi>Figure</hi> [6] ſet under Thoſe <hi>Notes</hi> which Lead the <hi>Diviſion,</hi> anſwering to That <hi>Note</hi> of the <hi>Ground</hi> which requires a 6<hi rend="sup">th.</hi> Laſtly; you may obſerve, that ſometimes, part of the Laſt, or concluding <hi>Note,</hi> is alſo divided; which is left to the Liberty of the <hi>Player</hi> or <hi>Compoſer.</hi>
+               </p>
+               <p>Your Next <hi>Example,</hi> is the ſame <hi>Cadence,</hi> in <hi>ſharp Notes.</hi>
+               </p>
+               <pb n="31" facs="tcp:50897:21"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Example upon the first ſort of Cadence Sharp Ground broken Deſcant Mixt Mixt</hi>
+               </p>
+               <pb n="32" facs="tcp:50897:22"/>
+               <p>Though the <hi>Ground</hi> of theſe two <hi>Examples,</hi> be the ſame <hi>Notes;</hi> and conſe<g ref="char:EOLhyphen"/>quently, the ſame <hi>Deſcant,</hi> or <hi>Diviſion,</hi> which ſerves for One, might alſo ſerve for the Other; yet I was willing to ſet them Both; that you might perceive, how great a difference of <hi>Aire,</hi> there is betwixt the ſame <hi>Notes, Flatt,</hi> and <hi>Sharp;</hi> as upon hearing, will better appear unto you.</p>
+               <p>We will now proceed to the other ſort of <hi>Cadence;</hi> which is, a 4<hi rend="sup">th.</hi> brought off with a 3<hi rend="sup">d</hi>. And Firſt, upon a <hi>Minim,</hi> thus.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Example of the Second Sort of Cadence upon a Minim Ground Broken Deſcant Mixt Mixt</hi>
+               </p>
+               <p>Where you ſee, that if the <hi>Notes</hi> be Played twice ſo Long, as they are here ſet down; the <hi>Example</hi> is then a <hi>Cadence</hi> upon a <hi>Semibreve.</hi> Notwithſtanding, I will ſet you it upon a <hi>Semibreve;</hi> and that I may compriſe ſomething more, under the ſame <hi>Example,</hi> I will place Four <hi>Minims</hi> before it; by which you may ſee how to divide upon <hi>Notes</hi> deſcending by degrees.</p>
+               <pb n="33" facs="tcp:50897:22"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Example of the Second Sort of Cadence upon a Semibreve Ground broken Descant Mixt Mixt</hi>
+               </p>
+               <pb n="34" facs="tcp:50897:23"/>
+               <p>In This, and alſo in Other <hi>Examples,</hi> there is One thing which may Scanda<g ref="char:EOLhyphen"/>lize a Young <hi>Muſitian;</hi> and perhaps give Offence to ſome Old <hi>Critick:</hi> in preven<g ref="char:EOLhyphen"/>tion whereof, I think it not amiſs to ſpeak a little.</p>
+               <p>Every <hi>Compoſer</hi> knows that the <hi>Conſecution</hi> of 5<hi rend="sup">ths.</hi> or 8<hi rend="sup">ths.</hi> is not allowed in <hi>Mu<g ref="char:EOLhyphen"/>ſick;</hi> that is,<note place="margin">Conſecu<g ref="char:EOLhyphen"/>tion of 5<hi rend="sup">ths.</hi> and 8<hi rend="sup">ths.</hi> how al<g ref="char:EOLhyphen"/>lowed, or not allow<g ref="char:EOLhyphen"/>ed in <hi>Di<g ref="char:EOLhyphen"/>viſion</hi> to a <hi>Ground.</hi>
+                  </note>betwixt two <hi>Different Parts,</hi> or <hi>Voyces.</hi> Now; when we Play <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> to a <hi>Ground,</hi> it is to be conſidered, whether, or no, we Play a <hi>Different Part</hi> from the ſaid <hi>Ground.</hi> I anſwer; in <hi>Deſcant-Diviſion,</hi> we do: But in <hi>Divi<g ref="char:EOLhyphen"/>ding the Ground,</hi> we Play but the <hi>ſame Part</hi> with it; in which doing, if we hit upon the 8<hi rend="sup">th.</hi> 
+                  <hi>Above,</hi> or <hi>Below</hi> the <hi>Ground-Note,</hi> (which will produce, ſometimes two or more 8<hi rend="sup">ths.</hi> together, as you ſee in the firſt Variation of the Precedent <hi>Ex<g ref="char:EOLhyphen"/>ample;</hi>) yet, This is ſtill to be accounted, as but <hi>One,</hi> and the <hi>ſame Sound</hi> with the <hi>Baſſe;</hi> and therefore, if any man except againſt <hi>ſuch</hi> a <hi>Conſecution</hi> of 8<hi rend="sup">ths.</hi> he may as well except againſt the <hi>Lute, Harpſecord,</hi> and <hi>other Inſtruments,</hi> which have <hi>Octaves</hi> joyned to their <hi>Baſſes;</hi> which being ſtruck one after another, produce the <hi>Conſecution</hi> of ſo many 8<hi rend="sup">ths.</hi> together.</p>
+               <p>As for 5<hi rend="sup">ths.</hi> they cannot occurre in Breaking the <hi>Ground;</hi> becauſe there we meet every Succeeding <hi>Note,</hi> in the <hi>Uniſon,</hi> or <hi>Octave.</hi> If they happen in <hi>De<g ref="char:EOLhyphen"/>ſcant,</hi> there is no <hi>Apologie</hi> for them, except that One of them be a <hi>Falſe,</hi> or <hi>Defective</hi> 5<hi rend="sup">th.</hi> which, though not allowed by <hi>Morley,</hi> and ſome other Preciſe <hi>Mu<g ref="char:EOLhyphen"/>ſitians</hi> of Former Times; yet <hi>Kirker, Merſennus,</hi> and moſt <hi>Moderne Authours,</hi> as well <hi>Writers,</hi>
+                  <note place="margin">Two 5<hi rend="sup">ths.</hi> allowed, if one of them be defective.</note> as <hi>Compoſers,</hi> do both Uſe, and Approve it. For my Own Part, I do not only allow the <hi>Conſecution</hi> of Two 5<hi rend="sup">ths.</hi> when One of them is <hi>Defective;</hi> but, (being rightly taken) eſteem it among the <hi>Elegancies</hi> of <hi>Figurate Muſick.</hi>
+               </p>
+               <p>Your Next <hi>Example,</hi> is a <hi>Cadence</hi> upon a <hi>Breve,</hi> with Four <hi>Minims</hi> aſcending by Degrees unto it.</p>
+               <pb n="35" facs="tcp:50897:23"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example of the Second Sort of Cadence upon a Breve Ground broken Descant Mixt Mixt</hi>
+               </p>
+               <pb n="36" facs="tcp:50897:24"/>
+               <p>In the <hi>Mixt-Diviſion</hi> of theſe <hi>Examples,</hi> you have, in ſome Places, many 6<hi rend="sup">ths.</hi> taken One after another:<note place="margin">Concern<g ref="char:EOLhyphen"/>ing Riſing or Falling in 3<hi rend="sup">ds.</hi> or 6<hi rend="sup">ths.</hi> and in what Caſes This or That is better.</note> in other Places, many 3<hi rend="sup">ds.</hi> Concerning which, obſerve; that in <hi>Notes</hi> where we hit two Strings at once with the <hi>Bow,</hi> 3<hi rend="sup">ds.</hi> are more eaſie for the <hi>Hand,</hi> and alſo more pleaſing to the <hi>Eare,</hi> then many 6<hi rend="sup">ths.</hi> together. But in <hi>Mixed-Notes,</hi> where we hit One String after Another, 6<hi rend="sup">ths.</hi> are better then 3<hi rend="sup">ds.</hi> for the <hi>Leaps</hi> being greater, a greater diverſity of Sound is preſented to the <hi>Eare.</hi> Thence it proceeds that in <hi>Skipping-Diviſion,</hi> we rather make uſe of 10<hi rend="sup">ths.</hi> then Simple 3<hi rend="sup">ds.</hi> when there follows many of them, One after Another.</p>
+               <p>Having ſpoken of <hi>Cadences,</hi> I muſt not omit a <hi>Cloſe,</hi> which is made, without either of the before mentioned <hi>Cadences,</hi> and uſed for a Concluſion to ſome <hi>Fan<g ref="char:EOLhyphen"/>cies, Motets,</hi> or other Grave <hi>Muſick;</hi> in which the <hi>Baſſe</hi> Falleth a 4<hi rend="sup">th.</hi> or riſeth a 5<hi rend="sup">th.</hi> and part of the finall <hi>Note</hi> is commonly taken in to the <hi>Deſcant</hi> in this man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>I will give you One <hi>Example</hi> of dividing upon it, becauſe if at any time you Play or Compoſe <hi>Diviſion</hi> to a <hi>Through-Baſſe,</hi> or <hi>continued Ground,</hi> you may hap<g ref="char:EOLhyphen"/>pily meet with it. I will alſo ſet down a <hi>Long,</hi> or Four <hi>Semibreves,</hi> before the concluding <hi>Note,</hi> becauſe I have known ſome <hi>Beginners</hi> apprehend great difficulty, in Playing upon <hi>Notes</hi> ſtanding long in the ſame place.</p>
+               <p>When you ſee any <hi>Note</hi> with a Taile both upward and downward, (as in the Seventh Line of the next following <hi>Exam<g ref="char:EOLhyphen"/>ple</hi>) it ſignifies the <hi>Sound</hi> of two <hi>Strings</hi> in <hi>Uniſon;</hi> one being ſtopped, the other open.</p>
+               <pb n="37" facs="tcp:50897:24"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example of a Cloſe without a Cadence</hi> 
+               </p>
+               <pb n="38" facs="tcp:50897:25"/>
+               <p>I have not applied This <hi>Example</hi> into the ſeverall Sorts of <hi>Diviſion;</hi> becauſe, the <hi>Gronnd-Notes</hi> ſtanding ſo long in the ſame place, doe not admit a diſtinction, betwixt <hi>Breaking</hi> the <hi>Ground,</hi> and <hi>Deſcanting</hi> upon it: But this, which I have done, may ſuffice, to ſhew you the way of <hi>Dividing</hi> upon ſuch <hi>Notes,</hi> albeit their Continuance were longer in the ſame place.</p>
+               <p>And, whereas in all the other <hi>Examples,</hi> I have Set the ſeverall Wayes by themſelves; that you might better perceive how they differ, One, from Another; yet, in Playing, or Compoſing, <hi>Diviſion</hi> to a <hi>Ground,</hi> we may either Continue any One way, (perhaps a whole Strain together) or Change, from This, to That ſort of <hi>Diviſion</hi> as beſt pleaſes our <hi>Fancy;</hi> in ſo much, that ſometimes, <hi>Part</hi> of the ſame <hi>Note</hi> is Broken in One Sort of <hi>Diviſion,</hi> and <hi>Part</hi> of it, in Another, as you ſee in this <hi>Inſtance.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>In which, the Firſt Part of the <hi>Semibreve</hi> in <hi>D,</hi> is Divided, according to the way of <hi>Breaking</hi> the <hi>Ground,</hi> and the Latter Part of it, in the way of <hi>De<g ref="char:EOLhyphen"/>ſcant.</hi>
+               </p>
+               <p>Hitherto, we have treated concerning the dividing of <hi>Minims, Semibreves,</hi> or <hi>Longer-Notes;</hi> which, duly conſidered, might alſo ſerve for <hi>Notes</hi> that are <hi>Shorter:</hi> but, that I may, as near as I can, omit nothing which may eaſe, or aſſiſt the <hi>Young Practitioner,</hi> I will give ſome <hi>Examples</hi> upon <hi>Shorter Notes,</hi> as <hi>Crochets,</hi> and <hi>Quavers;</hi> with ſuch Obſervations, as I think requiſite; and Firſt, of <hi>Crochets</hi> Ri<g ref="char:EOLhyphen"/>ſing, and Falling, by Degrees.</p>
+               <pb n="39" facs="tcp:50897:25"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example upon Crochets aſcending by Degrees The Ground broken Descant Mixt Mixt</hi>
+               </p>
+               <pb n="40" facs="tcp:50897:26"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example upon Crochets deſcending by Degrees The Ground broken Descant Mixt Mixt</hi>
+               </p>
+               <p>In theſe Two <hi>Examples,</hi> you have had <hi>Crochets,</hi> Riſing, and Falling, by <hi>De<g ref="char:EOLhyphen"/>grees.</hi> I will now ſhew you them moving by <hi>Leaps,</hi> or <hi>Intervalls,</hi> in a <hi>Ground</hi> of two Strains.</p>
+               <pb n="41" facs="tcp:50897:26"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example of Crochets riſing and falling by leaps The Ground The Ground broken Descant Mixt Mixt</hi>
+               </p>
+               <pb n="42" facs="tcp:50897:27"/>
+               <p>In This <hi>Ground,</hi> you have all the <hi>Intervalls,</hi> or <hi>Diſtances,</hi> which are in an <hi>Oc<g ref="char:EOLhyphen"/>tave;</hi> for in the Firſt Strain, you have 3<hi rend="sup">ds.</hi> Falling, and 4<hi rend="sup">ths.</hi> Riſing; which in<g ref="char:EOLhyphen"/>clude, (as the ſame thing,) 6<hi rend="sup">ths.</hi> Riſing, and 5<hi rend="sup">ths.</hi> Falling. In the Second Strain; you have, (on the contrary,) 3<hi rend="sup">ds.</hi> Riſing, and 4<hi rend="sup">ths.</hi> Falling; which is the ſame with 6<hi rend="sup">ths.</hi> Falling, and 5<hi rend="sup">ths.</hi> Riſing. And laſtly, for 7<hi rend="sup">ths.</hi> you have Them inclu<g ref="char:EOLhyphen"/>ded (by their Oppoſite <hi>Octaves</hi>) in Thoſe <hi>Notes,</hi> which Riſe, or Fall, by De<g ref="char:EOLhyphen"/>grees.</p>
+            </div>
+            <div type="subpart">
+               <head>
+                  <hi>Of</hi> Quavers.</head>
+               <p>If <hi>Quavers</hi> occurre,<note place="margin">
+                     <hi>Quavers</hi> to be con<g ref="char:EOLhyphen"/>ſidered, whether they be not the <hi>Minute Parts</hi> of ſome lon<g ref="char:EOLhyphen"/>ger <hi>Note.</hi>
+                  </note> in a <hi>Ground</hi> propoſed unto you, to Play, or Make <hi>Diviſi<g ref="char:EOLhyphen"/>on</hi> upon; you are, Firſt, to conſider, whether, or no, they be not the <hi>Minute Parts</hi> of ſome Longer <hi>Note;</hi> as for <hi>Example;</hi> when they move by Degrees, in ſuch Inſtances as Theſe.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <p>Here, they ſignifie no more then the <hi>Plain-Notes</hi> you ſee in the Next <hi>Barres</hi> after them: and therefore, if you Play upon Such <hi>Quavers,</hi> as though they were the ſaid <hi>Plain-Notes,</hi> making your <hi>Diviſion</hi> proceed in a contrary Motion, it may paſs for current, eſpecially in Playing to a <hi>Ground, Ex tempore.</hi> But in caſe you deſire to divide the <hi>Quavers</hi> Themſelves, or to Play <hi>Deſcant,</hi> or <hi>Mixt Diviſion</hi> Upon them, I will ſhew you them, according to the <hi>Method</hi> of our former <hi>Exam<g ref="char:EOLhyphen"/>ples,</hi> both, Riſing, and Falling, by Degrees.</p>
+               <pb n="43" facs="tcp:50897:27"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>An Example upon Quavers Riſing and Falling by Degrees The ground The Ground broken The Ground Deſcant The Ground Mixt Mixt</hi>
+               </p>
+               <p>The Firſt Variation of this Example, where the <hi>Quavers</hi> are broken into <hi>Semi<g ref="char:EOLhyphen"/>quavers,</hi> is a little irregular, as to what we have delivered concerning Meeting each following <hi>Note</hi> in the <hi>Uniſon,</hi> or <hi>Octave;</hi> for Here, each other <hi>Quaver</hi> is met in a <hi>Second.</hi> But neceſſity, and the ſhortneſs of the Diſſonance, render That ex<g ref="char:EOLhyphen"/>cuſable in Short <hi>Notes,</hi> which would not be Allowed in Longer. For as <hi>Crochets,</hi> ſo broken into <hi>Quavers</hi> are not very commendable, ſo <hi>Minims</hi> broken into <hi>Cro<g ref="char:EOLhyphen"/>chets,</hi> after the ſame Manner, would be much worſe. But if That, <hi>Aſcending,</hi> or <hi>Deſcending,</hi> by Degrees, conſiſted of <hi>Pricked-Notes,</hi> Succeeded by <hi>Notes</hi> of the Next leſs quantity: Then, that way of Breaking would be both Regular and Com<g ref="char:EOLhyphen"/>mendable; as thus,</p>
+               <pb n="44" facs="tcp:50897:28"/>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Ground Broken Ground Broken</hi>
+               </p>
+               <p>If you ask me, why I have put a <hi>b Flat</hi> to that <hi>Quaver</hi> in <hi>B;</hi> I anſwer; becauſe the <hi>Diviſion Deſcends</hi> from it to <hi>F,</hi> which is <hi>Flat.</hi> Again; in the <hi>Other Part</hi> which <hi>Aſcends,</hi>
+                  <note place="margin">Of <hi>Notes</hi> being made <hi>Flat</hi> or <hi>Sharp,</hi> in relati<g ref="char:EOLhyphen"/>on to the 4<hi rend="sup">th.</hi> A<g ref="char:EOLhyphen"/>bove, or Below.</note> there is a <hi>Quaver</hi> in <hi>F</hi> made <hi>Sharp,</hi> becauſe the <hi>Diviſion Aſcends</hi> from it, to <hi>B,</hi> which is <hi>Sharp:</hi> Both which are grounded upon the ſame Reaſon; which is, <hi>that in foure</hi> Notes Aſccending, <hi>or</hi> Deſcending <hi>by</hi> Degrees, <hi>we ſeldome exceed the diſtance of a</hi> Full, <hi>or</hi> Perfect 4<hi rend="sup">th.</hi> leſt we produce unto the <hi>Eare</hi> that harſh<g ref="char:EOLhyphen"/>neſs, which is called <hi>Relation not Harmonicall.</hi> For though the <hi>Leſs</hi> 4<hi rend="sup">th.</hi> (that is; when the Lower terme is <hi>Sharp,</hi> and the Higher, <hi>Flat</hi>) be moſt Frequent, and very Agreable, in <hi>Muſicall Progreſsion;</hi> yet when Both termes are extended, the Higher being <hi>Sharp,</hi> and the Lower, <hi>Flat:</hi> the diſtance is a <hi>Trione,</hi> which is more by half a <hi>Note,</hi> then a <hi>Perfect</hi> 4<hi rend="sup">th.</hi> and therefore when this happens, we commonly alter That which comes firſt in compliance To (and preparing the <hi>Eare</hi> For) that which is to follow.</p>
+               <p>As for <hi>Quavers</hi> moving by <hi>Leaps,</hi> I have little to ſay; more then that <hi>Grounds</hi> ought not to conſiſt of <hi>Notes</hi> ſo Short, as <hi>Quavers,</hi> in ſuch a movement. But if ſuch <hi>Notes</hi> ſhould be propoſed unto you, to <hi>Divide</hi> upon; you may ſerve your ſelf by that <hi>Example</hi> you had, of <hi>Crochets;</hi> in making Them, <hi>Quavers,</hi> and the <hi>Quavers</hi> upon them, <hi>Semiquavers;</hi> or, as you ſee in this following <hi>Example.</hi>
+               </p>
+               <p>
+                  <hi>Quavers moving by Leaps</hi> 
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>The Ground broken Deſcant Mixt Mixt</hi>
+               </p>
+               <pb n="45" facs="tcp:50897:28"/>
+               <p>By theſe <hi>Examples,</hi> and what hath been delivered, you ſee in what Manner <hi>Notes</hi> are divided; either according to the Way of <hi>Breaking</hi> the <hi>Ground;</hi> of <hi>Deſ<g ref="char:EOLhyphen"/>canting</hi> upon it; or of <hi>Mixt Diviſion:</hi> which ſeverall VVayes, have been ſet down ſeperately, to give you a more Full, and Perfect Knowledge of each VVay; but you are now left to your liberty, to uſe This, or That, or Mingle One with Another, as ſhall beſt pleaſe your <hi>Fancy.</hi>
+               </p>
+               <p>And now there remains no more to be ſaid, of <hi>Dividing Notes,</hi> (as I conceive) but that I give you ſome aſſiſtance, by taking you, as it were, by the <hi>Hand,</hi> and Leading you into the eaſieſt VVay of Playing <hi>Ex tempore</hi> to a <hi>Ground.</hi>
+                  <note place="margin">How to Play <hi>Ex tempore</hi> to a <hi>Ground.</hi>
+                  </note>
+               </p>
+               <p>Firſt; you are to make choice of ſome <hi>Ground,</hi> conſiſting of <hi>Semibreves,</hi> or <hi>Minims;</hi> or of <hi>Semibreves,</hi> and <hi>Minims;</hi> for ſuch ought <hi>Grounds</hi> to be, that are propoſed to be Played upon at Sight. Next; you ought to be provided of <hi>Ten,</hi> or a <hi>Dozen Points</hi> of <hi>Diviſion;</hi> (the more, the better) each conſiſting of a <hi>Semi<g ref="char:EOLhyphen"/>breve,</hi> or <hi>Minim;</hi> which muſt be accomodated to the Firſt <hi>Note,</hi> or <hi>Notes,</hi> of your <hi>Ground.</hi>
+               </p>
+               <p>Being thus prepared, take the Eaſieſt of the ſaid <hi>Points,</hi> and, by applying it Firſt to One <hi>Note,</hi> and Then to Another; endevour to carry it on, through the whole <hi>Ground.</hi> VVhen by practice you can do This; take Another <hi>Point,</hi> and do the like with It; and ſo from One, to Another.</p>
+               <p>I will here for your eaſe, and encouragement, furniſh you with a <hi>Ground,</hi> and alſo with ſome <hi>Points;</hi> to which, you may adde infinite more at your pleaſure.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>The Ground points</hi>
+               </p>
+               <p>Let us now take ſome of theſe <hi>Points,</hi> and apply them to the <hi>precedent Ground;</hi> that you may, by <hi>Example,</hi> ſee how they are to be carried on.</p>
+               <pb n="46" facs="tcp:50897:29"/>
+               <p>
+                  <hi>An Example for carrying on a point upon a Ground</hi> 
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+               <pb n="47" facs="tcp:50897:29"/>
+               <p>This driving, or carrying On, a <hi>Point,</hi> doth much eaſe the <hi>Invention,</hi> which hath no further trouble, ſo long as the <hi>Point</hi> is continued, but to place, and ap<g ref="char:EOLhyphen"/>ply it to the ſeverall <hi>Notes</hi> of the <hi>Ground.</hi> Beſides; it renders the <hi>Diviſion</hi> more Uniforme, and alſo more Delightfull; provided, you do not cloy the <hi>Eare</hi> with too much repetition of the ſame thing; which may be avoyded by ſome little Va<g ref="char:EOLhyphen"/>riation, as you ſee I have done in carrying on ſome of the before-going <hi>Points.</hi> Alſo you have liberty to Change your <hi>Point,</hi> though in the Midſt of your <hi>Ground;</hi> or Mingle One <hi>Point</hi> with another, as beſt ſhall pleaſe your <hi>Fancy.</hi> Thus much for carrying on <hi>Points;</hi> and now let me advertiſe you</p>
+            </div>
+            <div type="subpart">
+               <head>Concerning the ordering, and diſpoſing of <hi>Diviſion.</hi>
+               </head>
+               <p>VVhen you are to Play <hi>Diviſion</hi> to a <hi>Ground,</hi> I would have you Firſt Play over, the <hi>Ground</hi> it ſelf; for theſe Reaſons. (1) That Others may heare what <hi>Notes</hi> you divide upon. (2) That your ſelf may be better poſſeſſed of the <hi>Ayre</hi> of the <hi>Ground,</hi> in caſe you know it not before. (3) That he who Playes the <hi>Ground</hi> unto you may better perceive your <hi>Time,</hi> or <hi>Meaſure.</hi> The <hi>Ground</hi> Played over, you may <hi>Break</hi> it, into <hi>Crochets,</hi> and <hi>Quavers,</hi> or Play <hi>Slow Deſcant</hi> to it, which you pleaſe. If your <hi>Ground</hi> be of Two or Three Strains, you may do by the Second, or Third, as by the Firſt. This done, and your <hi>Ground</hi> beginning over again; you may then <hi>Break</hi> it into <hi>Diviſion</hi> of a <hi>Quicker Motion;</hi> driving on ſome <hi>Point,</hi> or <hi>Points,</hi> as hath been ſhewed. When you have proſecuted that Manner of Play, ſo long as you pleaſe; and ſhewed ſome <hi>Command</hi> of <hi>Hand;</hi> you may fall off to <hi>Slower Deſcant,</hi> or <hi>Binding Notes,</hi> as you ſee cauſe; Playing alſo Some<g ref="char:EOLhyphen"/>times Lowd, or Soft, to expreſs Humour and draw on Attention.</p>
+               <p>After this, you may begin to Play ſome <hi>Skipping Diviſion,</hi> or <hi>Points,</hi> or <hi>Tri<g ref="char:EOLhyphen"/>pla's</hi> or what your preſent <hi>Fancy,</hi> or <hi>Invenſion</hi> ſhall prompt you to; changing ſtill from one Variety to another; for, Variety it is, which chiefly pleaſeth. Without which the beſt <hi>Diviſion</hi> in the World ſtill continued would become Tedi<g ref="char:EOLhyphen"/>ous to the <hi>Hearer;</hi> and therefore you muſt ſo place and diſpoſe your <hi>Diviſion,</hi> that the Change of it from One kind to Another, may ſtill beget a new atten<g ref="char:EOLhyphen"/>tion. And this is generally to be obſerved, whether your <hi>Ground</hi> conſiſt of One, or more <hi>Strains,</hi> or be a <hi>Continued Ground,</hi> of which I muſt alſo ſpeak a little.</p>
+               <p>A <hi>Continued Ground,</hi> uſed for Playing, or Making <hi>Diviſion</hi> upon, is (for the moſt part) the <hi>Through-Baſſe,</hi> of ſome <hi>Motett,</hi> or <hi>Madrigall,</hi> propoſed, or ſelected, for That purpoſe. This, after you have Played Two or Three <hi>Semibreves</hi> of it, Plain; to let the <hi>Organiſt</hi> know your <hi>Meaſure;</hi> you may begin to divide, accor<g ref="char:EOLhyphen"/>ding to your <hi>Fancy,</hi> or the former <hi>Inſtructions;</hi> untill you come near ſome <hi>Ca<g ref="char:EOLhyphen"/>dence,</hi> or <hi>Cloſe;</hi> where, I would have you ſhew ſome Agility of <hi>Hand.</hi> Here, (if you pleaſe) you may reſt a <hi>Minim,</hi> two, or three, letting the <hi>Ground</hi> go on, and then come in with ſome <hi>Point:</hi> after which you may fall to <hi>Deſcant, Mixt-Diviſion, Tripla's</hi> or what you pleaſe. In this manner, Playing ſometimes <hi>Swift Notes,</hi> ſometimes <hi>Slow;</hi> changing from This, to That Sort of <hi>Diviſion,</hi> as may beſt produce Variety; you may carry on the reſt of the <hi>Ground;</hi> and if you have any thing more excellent then other, reſerve it for the Concluſion.</p>
+            </div>
+            <div type="subpart">
+               <head>Of Compoſing <hi>Diviſion</hi> for One <hi>Viol</hi> to a <hi>Ground.</hi>
+               </head>
+               <p>When you compoſe <hi>Diviſion</hi> to a <hi>Ground,</hi> endevour to make it eaſie for the <hi>Hand;</hi> for, of things equally excellent in their <hi>Compoſition,</hi> That is alwayes to be preferred, which is more eaſie to be performed. Hence, we may conclude, that no man is fit to compoſe <hi>Diviſion</hi> to a <hi>Ground,</hi> (how great a <hi>Muſitian</hi> ſoever he be) unleſs he underſtand the <hi>Neck</hi> of the <hi>Inſtrument,</hi> and the <hi>Method</hi> of <hi>Fingering,</hi> belonging to it.</p>
+               <p>This is all I have to ſay concerning <hi>Diviſion</hi> for One <hi>Viol;</hi> more then that I would have you peruſe the <hi>Diviſions</hi> which other men have made opon <hi>Grounds;</hi> as thoſe of Mr. <hi>Henry Butler,</hi> Mr. <hi>Daniel Norcome,</hi> and divers other Excellent Men
+<pb n="48" facs="tcp:50897:30"/>of this our Nation, (who, hitherto, have had the preheminence for this particular <hi>Inſtrument</hi>) obſerving, and Noting in their <hi>Diviſions,</hi> what you find beſt worthy to be imitated.</p>
+            </div>
+            <div type="subpart">
+               <head>Of two <hi>Viols</hi> Playing together to a <hi>Ground.</hi>
+               </head>
+               <p>After this diſcourſe of <hi>Diviſion</hi> for One <hi>Viol;</hi> I ſuppoſe it will not be unſeaſo<g ref="char:EOLhyphen"/>nable, if I ſpeak ſomething of <hi>Two Viols</hi> Playing together to a <hi>Ground;</hi> in which kind of <hi>Muſick,</hi> I have had a little experimentall knowledge; and therefore will deliver it in ſuch order as I have known the Practice of it; referring the Im<g ref="char:EOLhyphen"/>provement thereof to further Experience.</p>
+               <p>Let the <hi>Ground</hi> be Pricked down in three Severall Papers: One, for him who Playes on the <hi>Organ,</hi> or <hi>Harpſecord;</hi> and the Other Two, for them that Play on the <hi>Viols;</hi> which, for <hi>Order,</hi> and <hi>Brevity,</hi> I will diſtinguiſh by three <hi>Letters: Viz. A.</hi> for <hi>Organiſt; B.</hi> for <hi>Firſt Baſſe,</hi> and <hi>C.</hi> for the <hi>Second.</hi>
+               </p>
+               <p>Each of theſe having the Same <hi>Ground</hi> before him, they may all begin toge<g ref="char:EOLhyphen"/>ther; <hi>A.</hi> and <hi>B,</hi> Playing the <hi>Ground,</hi> and <hi>C. Deſcanting</hi> to it in <hi>Slow Notes,</hi> or ſuch as may ſute a <hi>Beginning.</hi>
+               </p>
+               <p>This done; let <hi>C.</hi> Play the <hi>Ground,</hi> and <hi>B. Deſcant</hi> to it, as the Other had done before; but with ſome little <hi>Variation.</hi> If the <hi>Ground</hi> conſiſt of <hi>Two Strains,</hi> the like may be done by the Second; One, ſtill Playing the <hi>Ground,</hi> whilſt the Other <hi>Deſcants,</hi> or <hi>Divides</hi> upon it.</p>
+               <p>The <hi>Ground</hi> thus Played over; <hi>C.</hi> may begin again, and Play a <hi>Strain</hi> of <hi>Quicker Diviſion;</hi> which ended, let <hi>B.</hi> anſwer the Same, with Another, Some<g ref="char:EOLhyphen"/>thing Like it, but of a little more <hi>Lofty Ayre;</hi> for the better performance where<g ref="char:EOLhyphen"/>of, (if there be any difference in the <hi>Hands,</hi> or <hi>Inventions,</hi>) I would have the better <hi>Invention Lead,</hi> but the more able <hi>Hand</hi> ſtill <hi>Follow,</hi> that the <hi>Muſick</hi> may not ſeem to go leſs in performance.</p>
+               <p>When the <hi>Viols</hi> have thus (as it were) Vied, and revied, to one another; <hi>A.</hi> (if he have <hi>Ability</hi> of <hi>Hand,</hi>) may, upon a Signe given him, put in his <hi>Strain</hi> of <hi>Diviſion;</hi> the <hi>Two Viols</hi> Playing, One of them the <hi>Ground,</hi> and the Other <hi>ſlow Deſcant</hi> to it. <hi>A.</hi> having ended his <hi>Strain</hi> of <hi>Diviſion;</hi> the ſame may be anſwered, Firſt, by One <hi>Viol,</hi> and then by Another.</p>
+               <p>Having anſwered One Another in this Manner, ſo long as they think fit; the <hi>Two Viols</hi> may divide a <hi>Strain Both</hi> together; conſiſting of <hi>Crochets, Quavers,</hi> or <hi>Semiquavers,</hi> as they pleaſe; in which doing; let <hi>B. Break</hi> the <hi>Ground,</hi> according to the <hi>Wayes</hi> mentioned, <hi>Pag.</hi> 22, 23. and if Neceſſity, or his own <hi>Fancy,</hi> move him to fetch a <hi>Compaſs;</hi> let it be done in moving to the <hi>Octave, upward,</hi> or <hi>down<g ref="char:EOLhyphen"/>ward;</hi> returning back, either to end upon the <hi>Note</hi> it Self, or make a <hi>Tranſition</hi> to the <hi>Note</hi> following. By this, <hi>C.</hi> knowing <hi>B's Motion,</hi> he knows how to avoyd running into the ſame; and therefore will move into the 3<hi rend="sup">d.</hi> or 5<hi rend="sup">th.</hi> according to the <hi>Way</hi> of <hi>Deſcant.</hi> Thus much in relation to the preſent <hi>Note,</hi> or <hi>Note Divi<g ref="char:EOLhyphen"/>ded.</hi>
+               </p>
+               <p>Now, for meeting the <hi>Next Note,</hi> let <hi>C.</hi> take theſe <hi>Obſervations.</hi> (1) That whereas <hi>B.</hi> in <hi>Breaking</hi> the <hi>Ground,</hi> doth meet every <hi>Next Note,</hi> in the <hi>Uniſon,</hi> or <hi>Octave;</hi> his ſecureſt <hi>Way</hi> is to meet the ſaid <hi>Next Note</hi> in a 3<hi rend="sup">d.</hi> or in a 5<hi rend="sup">th.</hi> if their <hi>Motions</hi> be contrary. (2) That ſuch <hi>Notes</hi> of the <hi>Ground</hi> as require a 6<hi rend="sup">th.</hi> to be joyned to them, may be met either in the 6<hi rend="sup">th.</hi> or in the 3<hi rend="sup">d.</hi> (3) That at a <hi>Cloſe,</hi> or upon ſuch <hi>Notes</hi> as ſignifie a <hi>Cadence,</hi> he may (after he hath divi<g ref="char:EOLhyphen"/>ded the ſuppoſed <hi>Binding Note</hi>) meet the <hi>Cadent Note</hi> of the <hi>Ground,</hi> in an <hi>Uniſon,</hi> or <hi>Octave.</hi>
+               </p>
+               <p>Theſe <hi>Directions</hi> obſerved, the <hi>Two Viols</hi> may move a whole <hi>Strain</hi> together, in <hi>Extemporary Diviſion,</hi> without any remarkable claſhing in 5<hi rend="sup">ths.</hi> or 8<hi rend="sup">ths.</hi>
+               </p>
+               <p>When they have proceeded thus far; <hi>C.</hi> may begin ſome <hi>Point</hi> of <hi>Diviſion,</hi> of the lenghth of a <hi>Breve,</hi> or <hi>Semibreve,</hi> naming the Word <hi>Breve,</hi> or <hi>Semibreve,</hi> by which <hi>B.</hi> may know his <hi>Intention:</hi> which ended; let <hi>B.</hi> anſwer the ſame, upon the ſucceeding <hi>Note,</hi> or <hi>Notes,</hi> to the like quantity of <hi>Time;</hi> taking it in that Manner, One after Another, ſo long as they pleaſe; which done, they may be<g ref="char:EOLhyphen"/>take
+<pb n="49" facs="tcp:50897:30"/>take themſelves to <hi>Another Point,</hi> of a different <hi>Length,</hi> which will produce a <hi>New Variety.</hi>
+               </p>
+               <p>This conteſt, in <hi>Breves, Semibreves,</hi> or <hi>Minims,</hi> being ended, they may give the Signe to <hi>A.</hi> if (as I ſaid) he have <hi>Ability</hi> of <hi>Hand,</hi> that he may begin <hi>His Point,</hi> as they had done, One to Another; which <hi>Point</hi> may be anſwered by the <hi>Viols,</hi> either Severally, or Joyntly; if Joyntly, it muſt be done according to the former <hi>Inſtructions</hi> of dividing Together; Playing ſtill <hi>Slow Notes,</hi> whilſt <hi>A. Di<g ref="char:EOLhyphen"/>vides.</hi>
+               </p>
+               <p>When this is done, <hi>Both Viols</hi> may Play another <hi>Strain</hi> together, either in <hi>Quick,</hi> or <hi>Slow Notes,</hi> which they pleaſe; and if the <hi>Muſick</hi> be not yet ſpun out to a ſufficient <hi>Length,</hi> they may then begin to Play <hi>Tripla's,</hi> and <hi>Proportions,</hi> an<g ref="char:EOLhyphen"/>ſwering One Another, either in <hi>Whole Strains,</hi> or in <hi>Parcels;</hi> and after That, joyn together in a <hi>Thundering Strain</hi> of <hi>Quick Diviſion,</hi> with which they may conclude; or elſe, with a <hi>Strain</hi> of <hi>Slow,</hi> and <hi>Sweet Notes;</hi> according as may beſt ſuit the circumſtance, of <hi>Time,</hi> and <hi>Place.</hi>
+               </p>
+               <p>I have known this kind of <hi>Extemporary Muſick,</hi> ſometimes (when it was per<g ref="char:EOLhyphen"/>formed by <hi>Hands</hi> accuſtomed to Play together) paſs off, with greater <hi>Applauſe,</hi> then thoſe <hi>Diviſions,</hi> which had been the moſt Studiouſly Compoſed.</p>
+            </div>
+            <div type="subpart">
+               <head>Some <hi>Obſervations,</hi> in Compoſing <hi>Diviſions,</hi> of Two, and Three <hi>Parts.</hi>
+               </head>
+               <p>Now; in Compoſing <hi>Diviſion</hi> for <hi>Two Baſſe Viols,</hi> you may follow this <hi>Method,</hi>
+                  <note place="margin">
+                     <hi>Two</hi> Baſ<g ref="char:EOLhyphen"/>ſes.</note>more, or leſs, as you pleaſe; moulding it into what form you like beſt; as ma<g ref="char:EOLhyphen"/>king ſometimes <hi>This,</hi> ſometimes <hi>That Part,</hi> move <hi>Above,</hi> or <hi>Below:</hi> ſometimes an<g ref="char:EOLhyphen"/>ſwering One Another; and ſometimes joyning them, in <hi>Diviſion, Both</hi> together; ſometimes in <hi>Slow,</hi> fometimes in <hi>Quick Motions;</hi> ſuch, as may beſt produce <hi>Varie<g ref="char:EOLhyphen"/>ty:</hi> But, after their anſwering One Another by Turns, I would alwayes have them joyn Together, in ſome <hi>Strain</hi> of <hi>Diviſion;</hi> with which, or with ſome <hi>Slow,</hi> and pleaſing <hi>Deſcant,</hi> you may conclude your <hi>Compoſition.</hi>
+               </p>
+               <p>If you make <hi>Diviſion</hi> for <hi>Two Trebles; Both</hi> muſt be in the way of <hi>Deſcant</hi> to the <hi>Ground:</hi> and when they move in <hi>Quick Notes, Both Together;</hi>
+                  <note place="margin">
+                     <hi>Two</hi> Tre<g ref="char:EOLhyphen"/>bles.</note> their moſt uſu<g ref="char:EOLhyphen"/>all paſſage will be in 3<hi rend="sup">ds.</hi> or 6<hi rend="sup">ths.</hi> to One Another; ſometimes, an intermixture with other <hi>Concords;</hi> but ſuch, as muſt ſtill have relation to the <hi>Ground.</hi> As for their anſwering One Another; their ſeverall <hi>Motions,</hi> and <hi>Changes,</hi> in order to <hi>Va<g ref="char:EOLhyphen"/>riety;</hi> the ſame is underſtood as of the <hi>Former.</hi>
+               </p>
+               <p>In <hi>Compoſing,</hi> for a <hi>Treble,</hi> and <hi>Baſſe,</hi> you are to conſider the <hi>Nature,</hi>
+                  <note place="margin">Treble <hi>and</hi> Baſſe.</note>and <hi>Com<g ref="char:EOLhyphen"/>paſſe</hi> of either <hi>Part:</hi> framing your <hi>Diviſion</hi> according thereunto; which in the <hi>Higher Part,</hi> will be <hi>Deſcant;</hi> in the <hi>Lower,</hi> a more frequent <hi>Breaking</hi> of the <hi>Ground.</hi>
+               </p>
+               <p>The ſame regard, to the <hi>Nature</hi> of the <hi>Parts,</hi> muſt be had in <hi>Compoſing</hi> for <hi>Two Trebles,</hi> and a <hi>Baſſe;</hi> or for <hi>Two Baſſes,</hi> and <hi>One Treble.</hi>
+                  <note place="margin">
+                     <hi>Two</hi> Tre<g ref="char:EOLhyphen"/>bles <hi>and</hi> Baſſe.</note>
+               </p>
+               <p>In <hi>Diviſions</hi> made for <hi>Three Baſſes,</hi> every <hi>Viol</hi> acts the <hi>Treble, Eaſſe,</hi>
+                  <note place="margin">
+                     <hi>Two</hi> Baſ<g ref="char:EOLhyphen"/>ſes <hi>and a Treble. Three</hi> Baſſes.</note> or <hi>Inward Part,</hi> by <hi>Turns.</hi> But here you are to Note, that <hi>Diviſions,</hi> of <hi>Three Parts,</hi> are not uſually made upon <hi>Grounds;</hi> but rather <hi>Compoſed</hi> in the way of <hi>Fancy:</hi> begin<g ref="char:EOLhyphen"/>ning with ſome <hi>Fuge;</hi> then falling into <hi>Points</hi> of <hi>Diviſion;</hi> anſwering One Another; ſometimes Two anſwering One, and ſometimes, All joyning Together in <hi>Diviſion;</hi> But commonly, Ending in Grave, and Harmonious <hi>Muſick.</hi>
+               </p>
+               <p>Howbeit; if, after each <hi>Fancy,</hi> there follow an <hi>Aire,</hi> (which will produce a plea<g ref="char:EOLhyphen"/>ſing <hi>Variety;</hi>) the <hi>Baſſes</hi> of <hi>Theſe,</hi> conſiſting of <hi>Two, ſhort Strains;</hi> differ very little from the <hi>Nature</hi> of <hi>Grounds;</hi> as may be ſeen in the <hi>Baſſe</hi> deſigned for the <hi>Organ,</hi> or <hi>Harpſecord.</hi>
+               </p>
+               <p>Theſe <hi>Aires,</hi> or <hi>Allmains,</hi> Begin like <hi>Other Conſort-Aires;</hi> after which they Re<g ref="char:EOLhyphen"/>peat the <hi>Strains,</hi> in divers <hi>Variations</hi> of <hi>Diviſion; One Part</hi> anſwering <hi>Another,</hi> as formerly mentioned.</p>
+               <p>In theſe ſeverall Sorts of <hi>Diviſion,</hi> both for <hi>Two,</hi> and <hi>Three Parts,</hi> my Self (amongſt Others more Excellent) have made divers <hi>Compoſitions;</hi> which, perhaps might be ſerviceable to <hi>Young Muſitians;</hi> either for their <hi>Practice,</hi> or <hi>Imitation;</hi> but the <hi>Charge</hi> of <hi>Printing Diviſions,</hi> (which cannot be well expreſſed unleſſe by <hi>Cutts</hi>
+                  <pb n="50" facs="tcp:50897:31"/>in <hi>Copper</hi>) doth make That kind of <hi>Muſick,</hi> leſs communicable. But, if you de<g ref="char:EOLhyphen"/>ſire <hi>Written Coppies</hi> of <hi>Diviſions,</hi> made for <hi>Two,</hi> or <hi>Three Parts,</hi> (a thing moſt ne<g ref="char:EOLhyphen"/>ceſſary to thoſe who intend to <hi>Compoſe</hi> ſuch like themſelves) none hath done More in That kind, then the ever Famous, and moſt Excellent <hi>Compoſer,</hi> in all Sorts of <hi>Modern Muſick,</hi> Mr. <hi>John Jenkins.</hi> And here might I mention (were it not out of the <hi>Rode</hi> of my <hi>Deſigne</hi>) diverſe Others; moſt Eminent Men of this our Nati<g ref="char:EOLhyphen"/>on; who, for their Excellent, and Various <hi>Compoſitions,</hi> eſpecially for <hi>Inſtruments,</hi> have, in my Opinion, far out-done thoſe Nations ſo much cryed up for their Ex<g ref="char:EOLhyphen"/>cellency in <hi>Muſick:</hi> but my naming them would ſignifie little, as to any Addition to their Reputations; they being ſufficiently known, and honored, by their own <hi>Works:</hi> neither had I taken upon me, to nominate any Perſon, had it not been up<g ref="char:EOLhyphen"/>on the neceſſary accompt of <hi>Diviſion-Muſick;</hi> the peculiar Subject of my now ended Diſcourſe.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>Having this opportunity, I cannot but advertiſe my <hi>Reader;</hi> that in the yeer, 1655. a little Book of Doctor <hi>Campians</hi> was Printed, with ſome ſhort <hi>Annotations,</hi> which I had formerly added thereunto, at the Requeſt of a Worthy Friend; to ſolve ſuch doubts as occurred to him in reading the ſaid Book. Theſe, I ſhould ſcarce have thought worth owning, though they had been ſet out to their beſt advantage; but in that manner they are Printed (the Letters and Marks being left out, which pointed to what words of the Text they had relation) I was much troubled and aſhamed at the ſight of them. Beſides, there are ſome words miſprinted, others quite left out; which deſtroyes the Senſe of what I intended. As for Inſtance, In my ſhort <hi>Expoſition</hi> of the <hi>Gamut,</hi> or <hi>Scale</hi> of <hi>Muſick,</hi> which follows the Doctors Preface, (in the tenth Line after the Title) where (ſpeaking of the <hi>Cliffs</hi>) I ſaid, <hi>they open the meaning of the</hi> Song <hi>unto us,</hi> it is Printed Longs <hi>unto us.</hi> Again; In the ſame Page (Line fourteenth and fifteenth) where I ſaid, <hi>when you look upon any</hi> Song <hi>or</hi> Piece <hi>of</hi> Muſick, <hi>you commonly ſee five</hi> Rules, <hi>&amp;c.</hi> the words <hi>you commonly ſee,</hi> are quite left out. Moreover; at the end of the ſaid <hi>Expoſition</hi> of the <hi>Gam-ut,</hi> there is ſet an <hi>Example</hi> of <hi>Notes,</hi> and their value, different from that which my words do there explicate. This I thought fit to Publiſh, as well for my own Vindication, as Correction of the ſaid Faults.</p>
+            <p>As for the Faults of this Preſent Book, whether relating to the <hi>Text,</hi> or to the <hi>Figures,</hi> I hope they are not remarkable. Only, that the <hi>Examples</hi> (being cut and ingraven by thoſe not accuſtomed to that kind of <hi>Work,</hi> nor acquainted with <hi>Mu<g ref="char:EOLhyphen"/>ſick-Notes</hi>) are, in ſome places (though true) not ſo fair and formall to the Eye as I could wiſh. What failings may appear in the Diſcourſe it ſelf; which, perhaps, by a longer conſideration, might have been avoided, Importuned Haſt muſt plead a pardon for them.</p>
+         </div>
+         <div type="music">
+            <pb facs="tcp:50897:31"/>
+            <pb facs="tcp:50897:32"/>
+            <pb n="53" facs="tcp:50897:32"/>
+            <head>Divisions for the practice of Learners</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="54" facs="tcp:50897:33"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="55" facs="tcp:50897:33"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="56" facs="tcp:50897:34"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="57" facs="tcp:50897:34"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="58" facs="tcp:50897:35"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="59" facs="tcp:50897:35"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="60" facs="tcp:50897:36"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="61" facs="tcp:50897:36"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="62" facs="tcp:50897:37"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="63" facs="tcp:50897:37"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="64" facs="tcp:50897:38"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="65" facs="tcp:50897:38"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="66" facs="tcp:50897:39"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="67" facs="tcp:50897:39"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
